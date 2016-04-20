@@ -1,0 +1,2207 @@
+Archive member included because of file (symbol)
+
+/home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-errno.o)
+                              ./system/src/newlib/_sbrk.o (__errno)
+/home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-impure.o)
+                              /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-errno.o) (_impure_ptr)
+/home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-strlen.o)
+                              ./system/src/diag/Trace.o (strlen)
+/home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-vsnprintf.o)
+                              ./system/src/diag/Trace.o (vsnprintf)
+/home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-nano-svfprintf.o)
+                              /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-vsnprintf.o) (_svfprintf_r)
+/home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-nano-vfprintf_i.o)
+                              /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-nano-svfprintf.o) (_printf_i)
+/home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-memchr.o)
+                              /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-nano-svfprintf.o) (memchr)
+/home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-memcpy.o)
+                              /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-nano-svfprintf.o) (memcpy)
+/home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-memmove.o)
+                              /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-nano-svfprintf.o) (memmove)
+/home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-nano-freer.o)
+                              /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-nano-svfprintf.o) (_free_r)
+/home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-nano-mallocr.o)
+                              /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-nano-svfprintf.o) (_malloc_r)
+/home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-nano-reallocr.o)
+                              /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-nano-svfprintf.o) (_realloc_r)
+/home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-sbrkr.o)
+                              /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-nano-mallocr.o) (_sbrk_r)
+/home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-nano-msizer.o)
+                              /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-nano-reallocr.o) (_malloc_usable_size_r)
+
+Allocating common symbols
+Common symbol       size              file
+
+timer_delayCount    0x4               ./src/Timer.o
+errno               0x4               ./system/src/newlib/_syscalls.o
+
+Discarded input sections
+
+ .group         0x00000000        0x8 ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+ .group         0x00000000        0x8 ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+ .group         0x00000000        0x8 ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+ .group         0x00000000        0x8 ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+ .group         0x00000000        0x8 ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+ .group         0x00000000        0x8 ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+ .group         0x00000000        0x8 ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+ .group         0x00000000        0x8 ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+ .group         0x00000000        0x8 ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+ .group         0x00000000        0x8 ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+ .group         0x00000000        0x8 ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+ .group         0x00000000        0x8 ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+ .group         0x00000000        0x8 ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+ .group         0x00000000        0x8 ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+ .group         0x00000000        0x8 ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+ .group         0x00000000        0x8 ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+ .group         0x00000000        0x8 ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+ .group         0x00000000        0x8 ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+ .group         0x00000000        0x8 ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+ .group         0x00000000        0x8 ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+ .group         0x00000000        0x8 ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+ .group         0x00000000        0x8 ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+ .group         0x00000000        0x8 ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+ .group         0x00000000        0x8 ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+ .group         0x00000000        0x8 ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+ .group         0x00000000        0x8 ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+ .group         0x00000000        0x8 ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+ .group         0x00000000        0x8 ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+ .group         0x00000000        0x8 ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+ .group         0x00000000        0x8 ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+ .group         0x00000000        0x8 ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+ .text          0x00000000        0x0 ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+ .data          0x00000000        0x0 ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+ .bss           0x00000000        0x0 ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+ .text.GPIO_DeInit
+                0x00000000       0xf8 ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+ .text.GPIO_StructInit
+                0x00000000       0x14 ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+ .text.GPIO_PinLockConfig
+                0x00000000       0x48 ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+ .text.GPIO_ReadInputDataBit
+                0x00000000       0xac ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+ .text.GPIO_ReadInputData
+                0x00000000       0x48 ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+ .text.GPIO_ReadOutputDataBit
+                0x00000000       0xac ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+ .text.GPIO_ReadOutputData
+                0x00000000       0x48 ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+ .text.GPIO_WriteBit
+                0x00000000       0xb8 ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+ .text.GPIO_Write
+                0x00000000       0x48 ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+ .text.GPIO_PinAFConfig
+                0x00000000       0x94 ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+ .group         0x00000000        0x8 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .group         0x00000000        0x8 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .group         0x00000000        0x8 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .group         0x00000000        0x8 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .group         0x00000000        0x8 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .group         0x00000000        0x8 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .group         0x00000000        0x8 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .group         0x00000000        0x8 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .group         0x00000000        0x8 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .group         0x00000000        0x8 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .group         0x00000000        0x8 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .group         0x00000000        0x8 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .group         0x00000000        0x8 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .group         0x00000000        0x8 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .group         0x00000000        0x8 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .group         0x00000000        0x8 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .group         0x00000000        0x8 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .group         0x00000000        0x8 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .group         0x00000000        0x8 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .group         0x00000000        0x8 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .group         0x00000000        0x8 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .group         0x00000000        0x8 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .group         0x00000000        0x8 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .group         0x00000000        0x8 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .group         0x00000000        0x8 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .group         0x00000000        0x8 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .group         0x00000000        0x8 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .group         0x00000000        0x8 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .group         0x00000000        0x8 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .group         0x00000000        0x8 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .group         0x00000000        0x8 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .text          0x00000000        0x0 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .data          0x00000000        0x0 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .bss           0x00000000        0x0 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .text.RCC_DeInit
+                0x00000000       0x54 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .text.RCC_HSEConfig
+                0x00000000       0x28 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .text.RCC_AdjustHSICalibrationValue
+                0x00000000       0x2c ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .text.RCC_HSICmd
+                0x00000000       0x20 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .text.RCC_LSEConfig
+                0x00000000       0x38 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .text.RCC_LSEDriveConfig
+                0x00000000       0x38 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .text.RCC_LSICmd
+                0x00000000       0x20 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .text.RCC_PLLConfig
+                0x00000000       0x94 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .text.RCC_PLLCmd
+                0x00000000       0x20 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .text.RCC_PREDIV1Config
+                0x00000000       0x28 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .text.RCC_ClockSecuritySystemCmd
+                0x00000000       0x20 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .text.RCC_MCOConfig
+                0x00000000       0x38 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .text.RCC_SYSCLKConfig
+                0x00000000       0x28 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .text.RCC_GetSYSCLKSource
+                0x00000000       0x10 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .text.RCC_HCLKConfig
+                0x00000000       0x48 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .text.RCC_PCLK1Config
+                0x00000000       0x40 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .text.RCC_PCLK2Config
+                0x00000000       0x40 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .text.RCC_GetClocksFreq
+                0x00000000      0x2c4 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .text.RCC_ADCCLKConfig
+                0x00000000       0xf0 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .text.RCC_I2CCLKConfig
+                0x00000000       0x50 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .text.RCC_TIMCLKConfig
+                0x00000000       0x54 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .text.RCC_USARTCLKConfig
+                0x00000000       0xf4 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .text.RCC_USBCLKConfig
+                0x00000000       0x20 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .text.RCC_RTCCLKConfig
+                0x00000000       0x34 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .text.RCC_I2SCLKConfig
+                0x00000000       0x20 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .text.RCC_RTCCLKCmd
+                0x00000000       0x20 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .text.RCC_BackupResetCmd
+                0x00000000       0x20 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .text.RCC_APB2PeriphClockCmd
+                0x00000000       0x4c ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .text.RCC_APB1PeriphClockCmd
+                0x00000000       0x4c ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .text.RCC_AHBPeriphResetCmd
+                0x00000000       0x4c ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .text.RCC_APB2PeriphResetCmd
+                0x00000000       0x4c ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .text.RCC_APB1PeriphResetCmd
+                0x00000000       0x4c ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .text.RCC_ITConfig
+                0x00000000       0x48 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .text.RCC_GetFlagStatus
+                0x00000000       0x80 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .text.RCC_WaitForHSEStartUp
+                0x00000000       0x34 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .text.RCC_ClearFlag
+                0x00000000       0x10 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .text.RCC_GetITStatus
+                0x00000000       0x40 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .text.RCC_ClearITPendingBit
+                0x00000000       0x24 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .data.ADCPrescTable
+                0x00000000       0x1a ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .data.APBAHBPrescTable
+                0x00000000       0x10 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .debug_macro   0x00000000      0x898 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .debug_macro   0x00000000       0x6e ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .debug_macro   0x00000000       0x3b ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .debug_macro   0x00000000      0x34e ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .debug_macro   0x00000000       0x2d ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .debug_macro   0x00000000       0x26 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .debug_macro   0x00000000      0xd39 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .debug_macro   0x00000000     0x769b ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .debug_macro   0x00000000      0x5a6 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .debug_macro   0x00000000      0x3cf ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .debug_macro   0x00000000       0x46 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .debug_macro   0x00000000      0x231 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .debug_macro   0x00000000      0x196 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .debug_macro   0x00000000       0x8e ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .debug_macro   0x00000000      0x3a9 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .debug_macro   0x00000000      0x116 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .debug_macro   0x00000000      0x1e4 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .debug_macro   0x00000000      0x1df ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .debug_macro   0x00000000      0x29a ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .debug_macro   0x00000000       0x70 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .debug_macro   0x00000000      0x10c ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .debug_macro   0x00000000       0xb8 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .debug_macro   0x00000000      0x551 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .debug_macro   0x00000000      0x3ac ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .debug_macro   0x00000000      0x8d8 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .debug_macro   0x00000000      0x364 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .debug_macro   0x00000000       0x34 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .debug_macro   0x00000000       0x89 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .debug_macro   0x00000000       0x35 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .group         0x00000000        0x8 ./system/src/newlib/_cxx.o
+ .group         0x00000000        0x8 ./system/src/newlib/_cxx.o
+ .group         0x00000000        0x8 ./system/src/newlib/_cxx.o
+ .group         0x00000000        0x8 ./system/src/newlib/_cxx.o
+ .group         0x00000000        0x8 ./system/src/newlib/_cxx.o
+ .group         0x00000000        0x8 ./system/src/newlib/_cxx.o
+ .group         0x00000000        0x8 ./system/src/newlib/_cxx.o
+ .group         0x00000000        0x8 ./system/src/newlib/_cxx.o
+ .group         0x00000000        0x8 ./system/src/newlib/_cxx.o
+ .group         0x00000000        0x8 ./system/src/newlib/_cxx.o
+ .group         0x00000000        0x8 ./system/src/newlib/_cxx.o
+ .group         0x00000000        0x8 ./system/src/newlib/_cxx.o
+ .group         0x00000000        0x8 ./system/src/newlib/_cxx.o
+ .group         0x00000000        0x8 ./system/src/newlib/_cxx.o
+ .group         0x00000000        0x8 ./system/src/newlib/_cxx.o
+ .group         0x00000000        0x8 ./system/src/newlib/_cxx.o
+ .group         0x00000000        0x8 ./system/src/newlib/_cxx.o
+ .group         0x00000000        0x8 ./system/src/newlib/_cxx.o
+ .group         0x00000000        0x8 ./system/src/newlib/_cxx.o
+ .group         0x00000000        0x8 ./system/src/newlib/_cxx.o
+ .group         0x00000000        0x8 ./system/src/newlib/_cxx.o
+ .group         0x00000000        0x8 ./system/src/newlib/_cxx.o
+ .group         0x00000000        0x8 ./system/src/newlib/_cxx.o
+ .group         0x00000000        0x8 ./system/src/newlib/_cxx.o
+ .group         0x00000000        0x8 ./system/src/newlib/_cxx.o
+ .group         0x00000000        0x8 ./system/src/newlib/_cxx.o
+ .text          0x00000000        0x0 ./system/src/newlib/_cxx.o
+ .data          0x00000000        0x0 ./system/src/newlib/_cxx.o
+ .bss           0x00000000        0x0 ./system/src/newlib/_cxx.o
+ .text._ZN9__gnu_cxx27__verbose_terminate_handlerEv
+                0x00000000       0x10 ./system/src/newlib/_cxx.o
+ .text.__cxa_pure_virtual
+                0x00000000       0x10 ./system/src/newlib/_cxx.o
+ .rodata._ZZ18__cxa_pure_virtualE8__func__
+                0x00000000       0x13 ./system/src/newlib/_cxx.o
+ .rodata._ZZN9__gnu_cxx27__verbose_terminate_handlerEvE8__func__
+                0x00000000       0x1c ./system/src/newlib/_cxx.o
+ .debug_info    0x00000000      0x5c8 ./system/src/newlib/_cxx.o
+ .debug_abbrev  0x00000000      0x1b3 ./system/src/newlib/_cxx.o
+ .debug_aranges
+                0x00000000       0x28 ./system/src/newlib/_cxx.o
+ .debug_ranges  0x00000000       0x18 ./system/src/newlib/_cxx.o
+ .debug_macro   0x00000000      0x164 ./system/src/newlib/_cxx.o
+ .debug_macro   0x00000000      0x8f8 ./system/src/newlib/_cxx.o
+ .debug_macro   0x00000000       0xef ./system/src/newlib/_cxx.o
+ .debug_macro   0x00000000      0x337 ./system/src/newlib/_cxx.o
+ .debug_macro   0x00000000       0x58 ./system/src/newlib/_cxx.o
+ .debug_macro   0x00000000       0x22 ./system/src/newlib/_cxx.o
+ .debug_macro   0x00000000       0x35 ./system/src/newlib/_cxx.o
+ .debug_macro   0x00000000       0x9c ./system/src/newlib/_cxx.o
+ .debug_macro   0x00000000       0x16 ./system/src/newlib/_cxx.o
+ .debug_macro   0x00000000      0x10e ./system/src/newlib/_cxx.o
+ .debug_macro   0x00000000       0x8d ./system/src/newlib/_cxx.o
+ .debug_macro   0x00000000       0x4a ./system/src/newlib/_cxx.o
+ .debug_macro   0x00000000       0x52 ./system/src/newlib/_cxx.o
+ .debug_macro   0x00000000       0x16 ./system/src/newlib/_cxx.o
+ .debug_macro   0x00000000       0x43 ./system/src/newlib/_cxx.o
+ .debug_macro   0x00000000      0x180 ./system/src/newlib/_cxx.o
+ .debug_macro   0x00000000      0x2a4 ./system/src/newlib/_cxx.o
+ .debug_macro   0x00000000       0x16 ./system/src/newlib/_cxx.o
+ .debug_macro   0x00000000       0x29 ./system/src/newlib/_cxx.o
+ .debug_macro   0x00000000       0xac ./system/src/newlib/_cxx.o
+ .debug_macro   0x00000000       0x10 ./system/src/newlib/_cxx.o
+ .debug_macro   0x00000000       0x22 ./system/src/newlib/_cxx.o
+ .debug_macro   0x00000000       0x22 ./system/src/newlib/_cxx.o
+ .debug_macro   0x00000000       0xbe ./system/src/newlib/_cxx.o
+ .debug_macro   0x00000000       0x16 ./system/src/newlib/_cxx.o
+ .debug_macro   0x00000000       0x35 ./system/src/newlib/_cxx.o
+ .debug_macro   0x00000000      0x48e ./system/src/newlib/_cxx.o
+ .debug_line    0x00000000      0x3c5 ./system/src/newlib/_cxx.o
+ .debug_str     0x00000000     0x7307 ./system/src/newlib/_cxx.o
+ .comment       0x00000000       0x71 ./system/src/newlib/_cxx.o
+ .debug_frame   0x00000000       0x40 ./system/src/newlib/_cxx.o
+ .ARM.attributes
+                0x00000000       0x33 ./system/src/newlib/_cxx.o
+ .group         0x00000000        0x8 ./system/src/newlib/_exit.o
+ .group         0x00000000        0x8 ./system/src/newlib/_exit.o
+ .group         0x00000000        0x8 ./system/src/newlib/_exit.o
+ .group         0x00000000        0x8 ./system/src/newlib/_exit.o
+ .group         0x00000000        0x8 ./system/src/newlib/_exit.o
+ .group         0x00000000        0x8 ./system/src/newlib/_exit.o
+ .group         0x00000000        0x8 ./system/src/newlib/_exit.o
+ .group         0x00000000        0x8 ./system/src/newlib/_exit.o
+ .group         0x00000000        0x8 ./system/src/newlib/_exit.o
+ .group         0x00000000        0x8 ./system/src/newlib/_exit.o
+ .group         0x00000000        0x8 ./system/src/newlib/_exit.o
+ .group         0x00000000        0x8 ./system/src/newlib/_exit.o
+ .group         0x00000000        0x8 ./system/src/newlib/_exit.o
+ .group         0x00000000        0x8 ./system/src/newlib/_exit.o
+ .group         0x00000000        0x8 ./system/src/newlib/_exit.o
+ .group         0x00000000        0x8 ./system/src/newlib/_exit.o
+ .group         0x00000000        0x8 ./system/src/newlib/_exit.o
+ .group         0x00000000        0x8 ./system/src/newlib/_exit.o
+ .group         0x00000000        0x8 ./system/src/newlib/_exit.o
+ .group         0x00000000        0x8 ./system/src/newlib/_exit.o
+ .group         0x00000000        0x8 ./system/src/newlib/_exit.o
+ .group         0x00000000        0x8 ./system/src/newlib/_exit.o
+ .group         0x00000000        0x8 ./system/src/newlib/_exit.o
+ .text          0x00000000        0x0 ./system/src/newlib/_exit.o
+ .data          0x00000000        0x0 ./system/src/newlib/_exit.o
+ .bss           0x00000000        0x0 ./system/src/newlib/_exit.o
+ .debug_macro   0x00000000      0x898 ./system/src/newlib/_exit.o
+ .debug_macro   0x00000000       0x58 ./system/src/newlib/_exit.o
+ .debug_macro   0x00000000       0x22 ./system/src/newlib/_exit.o
+ .debug_macro   0x00000000       0x35 ./system/src/newlib/_exit.o
+ .debug_macro   0x00000000       0x16 ./system/src/newlib/_exit.o
+ .debug_macro   0x00000000       0x4a ./system/src/newlib/_exit.o
+ .debug_macro   0x00000000       0x52 ./system/src/newlib/_exit.o
+ .debug_macro   0x00000000       0x16 ./system/src/newlib/_exit.o
+ .debug_macro   0x00000000      0x180 ./system/src/newlib/_exit.o
+ .debug_macro   0x00000000       0x16 ./system/src/newlib/_exit.o
+ .debug_macro   0x00000000       0x29 ./system/src/newlib/_exit.o
+ .debug_macro   0x00000000       0x16 ./system/src/newlib/_exit.o
+ .debug_macro   0x00000000       0x10 ./system/src/newlib/_exit.o
+ .debug_macro   0x00000000       0x22 ./system/src/newlib/_exit.o
+ .debug_macro   0x00000000       0x22 ./system/src/newlib/_exit.o
+ .debug_macro   0x00000000       0xbe ./system/src/newlib/_exit.o
+ .debug_macro   0x00000000      0x48e ./system/src/newlib/_exit.o
+ .group         0x00000000        0x8 ./system/src/newlib/_sbrk.o
+ .group         0x00000000        0x8 ./system/src/newlib/_sbrk.o
+ .group         0x00000000        0x8 ./system/src/newlib/_sbrk.o
+ .group         0x00000000        0x8 ./system/src/newlib/_sbrk.o
+ .group         0x00000000        0x8 ./system/src/newlib/_sbrk.o
+ .group         0x00000000        0x8 ./system/src/newlib/_sbrk.o
+ .group         0x00000000        0x8 ./system/src/newlib/_sbrk.o
+ .group         0x00000000        0x8 ./system/src/newlib/_sbrk.o
+ .group         0x00000000        0x8 ./system/src/newlib/_sbrk.o
+ .group         0x00000000        0x8 ./system/src/newlib/_sbrk.o
+ .group         0x00000000        0x8 ./system/src/newlib/_sbrk.o
+ .group         0x00000000        0x8 ./system/src/newlib/_sbrk.o
+ .group         0x00000000        0x8 ./system/src/newlib/_sbrk.o
+ .group         0x00000000        0x8 ./system/src/newlib/_sbrk.o
+ .group         0x00000000        0x8 ./system/src/newlib/_sbrk.o
+ .group         0x00000000        0x8 ./system/src/newlib/_sbrk.o
+ .text          0x00000000        0x0 ./system/src/newlib/_sbrk.o
+ .data          0x00000000        0x0 ./system/src/newlib/_sbrk.o
+ .bss           0x00000000        0x0 ./system/src/newlib/_sbrk.o
+ .debug_macro   0x00000000      0x898 ./system/src/newlib/_sbrk.o
+ .debug_macro   0x00000000       0x58 ./system/src/newlib/_sbrk.o
+ .debug_macro   0x00000000       0x22 ./system/src/newlib/_sbrk.o
+ .debug_macro   0x00000000       0x35 ./system/src/newlib/_sbrk.o
+ .debug_macro   0x00000000       0x9c ./system/src/newlib/_sbrk.o
+ .debug_macro   0x00000000       0x4a ./system/src/newlib/_sbrk.o
+ .debug_macro   0x00000000       0x52 ./system/src/newlib/_sbrk.o
+ .debug_macro   0x00000000       0x16 ./system/src/newlib/_sbrk.o
+ .debug_macro   0x00000000       0x22 ./system/src/newlib/_sbrk.o
+ .debug_macro   0x00000000       0x22 ./system/src/newlib/_sbrk.o
+ .debug_macro   0x00000000       0xbe ./system/src/newlib/_sbrk.o
+ .debug_macro   0x00000000      0x180 ./system/src/newlib/_sbrk.o
+ .group         0x00000000        0x8 ./system/src/newlib/_startup.o
+ .group         0x00000000        0x8 ./system/src/newlib/_startup.o
+ .group         0x00000000        0x8 ./system/src/newlib/_startup.o
+ .group         0x00000000        0x8 ./system/src/newlib/_startup.o
+ .group         0x00000000        0x8 ./system/src/newlib/_startup.o
+ .group         0x00000000        0x8 ./system/src/newlib/_startup.o
+ .group         0x00000000        0x8 ./system/src/newlib/_startup.o
+ .group         0x00000000        0x8 ./system/src/newlib/_startup.o
+ .group         0x00000000        0x8 ./system/src/newlib/_startup.o
+ .group         0x00000000        0x8 ./system/src/newlib/_startup.o
+ .group         0x00000000        0x8 ./system/src/newlib/_startup.o
+ .group         0x00000000        0x8 ./system/src/newlib/_startup.o
+ .group         0x00000000        0x8 ./system/src/newlib/_startup.o
+ .group         0x00000000        0x8 ./system/src/newlib/_startup.o
+ .text          0x00000000        0x0 ./system/src/newlib/_startup.o
+ .data          0x00000000        0x0 ./system/src/newlib/_startup.o
+ .bss           0x00000000        0x0 ./system/src/newlib/_startup.o
+ .text.__initialize_data
+                0x00000000       0x10 ./system/src/newlib/_startup.o
+ .text.__initialize_bss
+                0x00000000       0x10 ./system/src/newlib/_startup.o
+ .text.__run_init_array
+                0x00000000       0x48 ./system/src/newlib/_startup.o
+ .text.__run_fini_array
+                0x00000000       0x24 ./system/src/newlib/_startup.o
+ .debug_macro   0x00000000      0x34e ./system/src/newlib/_startup.o
+ .debug_macro   0x00000000       0x58 ./system/src/newlib/_startup.o
+ .debug_macro   0x00000000       0x22 ./system/src/newlib/_startup.o
+ .debug_macro   0x00000000       0x35 ./system/src/newlib/_startup.o
+ .debug_macro   0x00000000       0x9c ./system/src/newlib/_startup.o
+ .debug_macro   0x00000000       0x4a ./system/src/newlib/_startup.o
+ .debug_macro   0x00000000       0x52 ./system/src/newlib/_startup.o
+ .debug_macro   0x00000000       0x16 ./system/src/newlib/_startup.o
+ .debug_macro   0x00000000       0x19 ./system/src/newlib/_startup.o
+ .debug_macro   0x00000000       0x22 ./system/src/newlib/_startup.o
+ .debug_macro   0x00000000      0x16d ./system/src/newlib/_startup.o
+ .debug_macro   0x00000000       0x22 ./system/src/newlib/_startup.o
+ .debug_macro   0x00000000       0xbe ./system/src/newlib/_startup.o
+ .group         0x00000000        0x8 ./system/src/newlib/_syscalls.o
+ .group         0x00000000        0x8 ./system/src/newlib/_syscalls.o
+ .group         0x00000000        0x8 ./system/src/newlib/_syscalls.o
+ .group         0x00000000        0x8 ./system/src/newlib/_syscalls.o
+ .group         0x00000000        0x8 ./system/src/newlib/_syscalls.o
+ .group         0x00000000        0x8 ./system/src/newlib/_syscalls.o
+ .group         0x00000000        0x8 ./system/src/newlib/_syscalls.o
+ .group         0x00000000        0x8 ./system/src/newlib/_syscalls.o
+ .group         0x00000000        0x8 ./system/src/newlib/_syscalls.o
+ .group         0x00000000        0x8 ./system/src/newlib/_syscalls.o
+ .group         0x00000000        0x8 ./system/src/newlib/_syscalls.o
+ .group         0x00000000        0x8 ./system/src/newlib/_syscalls.o
+ .group         0x00000000        0x8 ./system/src/newlib/_syscalls.o
+ .group         0x00000000        0x8 ./system/src/newlib/_syscalls.o
+ .group         0x00000000        0x8 ./system/src/newlib/_syscalls.o
+ .group         0x00000000        0x8 ./system/src/newlib/_syscalls.o
+ .group         0x00000000        0x8 ./system/src/newlib/_syscalls.o
+ .group         0x00000000        0x8 ./system/src/newlib/_syscalls.o
+ .group         0x00000000        0x8 ./system/src/newlib/_syscalls.o
+ .group         0x00000000        0x8 ./system/src/newlib/_syscalls.o
+ .group         0x00000000        0x8 ./system/src/newlib/_syscalls.o
+ .group         0x00000000        0x8 ./system/src/newlib/_syscalls.o
+ .group         0x00000000        0x8 ./system/src/newlib/_syscalls.o
+ .group         0x00000000        0x8 ./system/src/newlib/_syscalls.o
+ .group         0x00000000        0x8 ./system/src/newlib/_syscalls.o
+ .group         0x00000000        0x8 ./system/src/newlib/_syscalls.o
+ .group         0x00000000        0x8 ./system/src/newlib/_syscalls.o
+ .group         0x00000000        0x8 ./system/src/newlib/_syscalls.o
+ .group         0x00000000        0x8 ./system/src/newlib/_syscalls.o
+ .group         0x00000000        0x8 ./system/src/newlib/_syscalls.o
+ .group         0x00000000        0x8 ./system/src/newlib/_syscalls.o
+ .group         0x00000000        0x8 ./system/src/newlib/_syscalls.o
+ .text          0x00000000        0x0 ./system/src/newlib/_syscalls.o
+ .data          0x00000000        0x0 ./system/src/newlib/_syscalls.o
+ .bss           0x00000000        0x0 ./system/src/newlib/_syscalls.o
+ .text.raise    0x00000000       0x10 ./system/src/newlib/_syscalls.o
+ .text.kill     0x00000000       0x10 ./system/src/newlib/_syscalls.o
+ .debug_macro   0x00000000      0x898 ./system/src/newlib/_syscalls.o
+ .debug_macro   0x00000000       0x58 ./system/src/newlib/_syscalls.o
+ .debug_macro   0x00000000       0x22 ./system/src/newlib/_syscalls.o
+ .debug_macro   0x00000000       0x35 ./system/src/newlib/_syscalls.o
+ .debug_macro   0x00000000       0x9c ./system/src/newlib/_syscalls.o
+ .debug_macro   0x00000000       0x10 ./system/src/newlib/_syscalls.o
+ .debug_macro   0x00000000      0x16d ./system/src/newlib/_syscalls.o
+ .debug_macro   0x00000000       0x4a ./system/src/newlib/_syscalls.o
+ .debug_macro   0x00000000       0x52 ./system/src/newlib/_syscalls.o
+ .debug_macro   0x00000000       0x16 ./system/src/newlib/_syscalls.o
+ .debug_macro   0x00000000       0x43 ./system/src/newlib/_syscalls.o
+ .debug_macro   0x00000000      0x180 ./system/src/newlib/_syscalls.o
+ .debug_macro   0x00000000      0x23b ./system/src/newlib/_syscalls.o
+ .debug_macro   0x00000000       0x35 ./system/src/newlib/_syscalls.o
+ .debug_macro   0x00000000       0x10 ./system/src/newlib/_syscalls.o
+ .debug_macro   0x00000000       0x22 ./system/src/newlib/_syscalls.o
+ .debug_macro   0x00000000       0x22 ./system/src/newlib/_syscalls.o
+ .debug_macro   0x00000000       0xbe ./system/src/newlib/_syscalls.o
+ .debug_macro   0x00000000      0x27a ./system/src/newlib/_syscalls.o
+ .group         0x00000000        0x8 ./system/src/newlib/assert.o
+ .group         0x00000000        0x8 ./system/src/newlib/assert.o
+ .group         0x00000000        0x8 ./system/src/newlib/assert.o
+ .group         0x00000000        0x8 ./system/src/newlib/assert.o
+ .group         0x00000000        0x8 ./system/src/newlib/assert.o
+ .group         0x00000000        0x8 ./system/src/newlib/assert.o
+ .group         0x00000000        0x8 ./system/src/newlib/assert.o
+ .group         0x00000000        0x8 ./system/src/newlib/assert.o
+ .group         0x00000000        0x8 ./system/src/newlib/assert.o
+ .group         0x00000000        0x8 ./system/src/newlib/assert.o
+ .group         0x00000000        0x8 ./system/src/newlib/assert.o
+ .group         0x00000000        0x8 ./system/src/newlib/assert.o
+ .group         0x00000000        0x8 ./system/src/newlib/assert.o
+ .group         0x00000000        0x8 ./system/src/newlib/assert.o
+ .group         0x00000000        0x8 ./system/src/newlib/assert.o
+ .group         0x00000000        0x8 ./system/src/newlib/assert.o
+ .group         0x00000000        0x8 ./system/src/newlib/assert.o
+ .group         0x00000000        0x8 ./system/src/newlib/assert.o
+ .group         0x00000000        0x8 ./system/src/newlib/assert.o
+ .group         0x00000000        0x8 ./system/src/newlib/assert.o
+ .group         0x00000000        0x8 ./system/src/newlib/assert.o
+ .group         0x00000000        0x8 ./system/src/newlib/assert.o
+ .group         0x00000000        0x8 ./system/src/newlib/assert.o
+ .group         0x00000000        0x8 ./system/src/newlib/assert.o
+ .group         0x00000000        0x8 ./system/src/newlib/assert.o
+ .text          0x00000000        0x0 ./system/src/newlib/assert.o
+ .data          0x00000000        0x0 ./system/src/newlib/assert.o
+ .bss           0x00000000        0x0 ./system/src/newlib/assert.o
+ .text.__assert_func
+                0x00000000       0x38 ./system/src/newlib/assert.o
+ .debug_macro   0x00000000      0x898 ./system/src/newlib/assert.o
+ .debug_macro   0x00000000       0x58 ./system/src/newlib/assert.o
+ .debug_macro   0x00000000       0x22 ./system/src/newlib/assert.o
+ .debug_macro   0x00000000       0x35 ./system/src/newlib/assert.o
+ .debug_macro   0x00000000       0x9c ./system/src/newlib/assert.o
+ .debug_macro   0x00000000       0x16 ./system/src/newlib/assert.o
+ .debug_macro   0x00000000      0x10e ./system/src/newlib/assert.o
+ .debug_macro   0x00000000       0x86 ./system/src/newlib/assert.o
+ .debug_macro   0x00000000       0x4a ./system/src/newlib/assert.o
+ .debug_macro   0x00000000       0x52 ./system/src/newlib/assert.o
+ .debug_macro   0x00000000       0x16 ./system/src/newlib/assert.o
+ .debug_macro   0x00000000       0x43 ./system/src/newlib/assert.o
+ .debug_macro   0x00000000      0x180 ./system/src/newlib/assert.o
+ .debug_macro   0x00000000      0x27a ./system/src/newlib/assert.o
+ .debug_macro   0x00000000       0x16 ./system/src/newlib/assert.o
+ .debug_macro   0x00000000       0x29 ./system/src/newlib/assert.o
+ .debug_macro   0x00000000      0x34e ./system/src/newlib/assert.o
+ .debug_macro   0x00000000       0x16 ./system/src/newlib/assert.o
+ .debug_macro   0x00000000       0x10 ./system/src/newlib/assert.o
+ .debug_macro   0x00000000       0x22 ./system/src/newlib/assert.o
+ .debug_macro   0x00000000       0x35 ./system/src/newlib/assert.o
+ .debug_macro   0x00000000       0x22 ./system/src/newlib/assert.o
+ .debug_macro   0x00000000       0xbe ./system/src/newlib/assert.o
+ .debug_macro   0x00000000      0x48e ./system/src/newlib/assert.o
+ .group         0x00000000        0x8 ./system/src/diag/Trace.o
+ .group         0x00000000        0x8 ./system/src/diag/Trace.o
+ .group         0x00000000        0x8 ./system/src/diag/Trace.o
+ .group         0x00000000        0x8 ./system/src/diag/Trace.o
+ .group         0x00000000        0x8 ./system/src/diag/Trace.o
+ .group         0x00000000        0x8 ./system/src/diag/Trace.o
+ .group         0x00000000        0x8 ./system/src/diag/Trace.o
+ .group         0x00000000        0x8 ./system/src/diag/Trace.o
+ .group         0x00000000        0x8 ./system/src/diag/Trace.o
+ .group         0x00000000        0x8 ./system/src/diag/Trace.o
+ .group         0x00000000        0x8 ./system/src/diag/Trace.o
+ .group         0x00000000        0x8 ./system/src/diag/Trace.o
+ .group         0x00000000        0x8 ./system/src/diag/Trace.o
+ .group         0x00000000        0x8 ./system/src/diag/Trace.o
+ .group         0x00000000        0x8 ./system/src/diag/Trace.o
+ .group         0x00000000        0x8 ./system/src/diag/Trace.o
+ .group         0x00000000        0x8 ./system/src/diag/Trace.o
+ .group         0x00000000        0x8 ./system/src/diag/Trace.o
+ .group         0x00000000        0x8 ./system/src/diag/Trace.o
+ .group         0x00000000        0x8 ./system/src/diag/Trace.o
+ .group         0x00000000        0x8 ./system/src/diag/Trace.o
+ .group         0x00000000        0x8 ./system/src/diag/Trace.o
+ .group         0x00000000        0x8 ./system/src/diag/Trace.o
+ .group         0x00000000        0x8 ./system/src/diag/Trace.o
+ .group         0x00000000        0x8 ./system/src/diag/Trace.o
+ .group         0x00000000        0x8 ./system/src/diag/Trace.o
+ .text          0x00000000        0x0 ./system/src/diag/Trace.o
+ .data          0x00000000        0x0 ./system/src/diag/Trace.o
+ .bss           0x00000000        0x0 ./system/src/diag/Trace.o
+ .text.trace_putchar
+                0x00000000       0x1c ./system/src/diag/Trace.o
+ .text.trace_dump_args
+                0x00000000       0x44 ./system/src/diag/Trace.o
+ .debug_macro   0x00000000      0x898 ./system/src/diag/Trace.o
+ .debug_macro   0x00000000       0x58 ./system/src/diag/Trace.o
+ .debug_macro   0x00000000       0x22 ./system/src/diag/Trace.o
+ .debug_macro   0x00000000       0x35 ./system/src/diag/Trace.o
+ .debug_macro   0x00000000       0x9c ./system/src/diag/Trace.o
+ .debug_macro   0x00000000       0x4a ./system/src/diag/Trace.o
+ .debug_macro   0x00000000      0x27a ./system/src/diag/Trace.o
+ .debug_macro   0x00000000       0x52 ./system/src/diag/Trace.o
+ .debug_macro   0x00000000       0x16 ./system/src/diag/Trace.o
+ .debug_macro   0x00000000       0x43 ./system/src/diag/Trace.o
+ .debug_macro   0x00000000      0x180 ./system/src/diag/Trace.o
+ .debug_macro   0x00000000       0x10 ./system/src/diag/Trace.o
+ .debug_macro   0x00000000       0x22 ./system/src/diag/Trace.o
+ .debug_macro   0x00000000       0x22 ./system/src/diag/Trace.o
+ .debug_macro   0x00000000       0xbe ./system/src/diag/Trace.o
+ .debug_macro   0x00000000       0x16 ./system/src/diag/Trace.o
+ .debug_macro   0x00000000       0x35 ./system/src/diag/Trace.o
+ .debug_macro   0x00000000      0x48e ./system/src/diag/Trace.o
+ .group         0x00000000        0x8 ./system/src/diag/trace_impl.o
+ .group         0x00000000        0x8 ./system/src/diag/trace_impl.o
+ .group         0x00000000        0x8 ./system/src/diag/trace_impl.o
+ .group         0x00000000        0x8 ./system/src/diag/trace_impl.o
+ .group         0x00000000        0x8 ./system/src/diag/trace_impl.o
+ .group         0x00000000        0x8 ./system/src/diag/trace_impl.o
+ .group         0x00000000        0x8 ./system/src/diag/trace_impl.o
+ .group         0x00000000        0x8 ./system/src/diag/trace_impl.o
+ .group         0x00000000        0x8 ./system/src/diag/trace_impl.o
+ .group         0x00000000        0x8 ./system/src/diag/trace_impl.o
+ .group         0x00000000        0x8 ./system/src/diag/trace_impl.o
+ .group         0x00000000        0x8 ./system/src/diag/trace_impl.o
+ .group         0x00000000        0x8 ./system/src/diag/trace_impl.o
+ .group         0x00000000        0x8 ./system/src/diag/trace_impl.o
+ .group         0x00000000        0x8 ./system/src/diag/trace_impl.o
+ .group         0x00000000        0x8 ./system/src/diag/trace_impl.o
+ .group         0x00000000        0x8 ./system/src/diag/trace_impl.o
+ .group         0x00000000        0x8 ./system/src/diag/trace_impl.o
+ .group         0x00000000        0x8 ./system/src/diag/trace_impl.o
+ .group         0x00000000        0x8 ./system/src/diag/trace_impl.o
+ .group         0x00000000        0x8 ./system/src/diag/trace_impl.o
+ .group         0x00000000        0x8 ./system/src/diag/trace_impl.o
+ .group         0x00000000        0x8 ./system/src/diag/trace_impl.o
+ .group         0x00000000        0x8 ./system/src/diag/trace_impl.o
+ .group         0x00000000        0x8 ./system/src/diag/trace_impl.o
+ .group         0x00000000        0x8 ./system/src/diag/trace_impl.o
+ .group         0x00000000        0x8 ./system/src/diag/trace_impl.o
+ .group         0x00000000        0x8 ./system/src/diag/trace_impl.o
+ .group         0x00000000        0x8 ./system/src/diag/trace_impl.o
+ .group         0x00000000        0x8 ./system/src/diag/trace_impl.o
+ .group         0x00000000        0x8 ./system/src/diag/trace_impl.o
+ .group         0x00000000        0x8 ./system/src/diag/trace_impl.o
+ .group         0x00000000        0x8 ./system/src/diag/trace_impl.o
+ .group         0x00000000        0x8 ./system/src/diag/trace_impl.o
+ .group         0x00000000        0x8 ./system/src/diag/trace_impl.o
+ .group         0x00000000        0x8 ./system/src/diag/trace_impl.o
+ .group         0x00000000        0x8 ./system/src/diag/trace_impl.o
+ .group         0x00000000        0x8 ./system/src/diag/trace_impl.o
+ .group         0x00000000        0x8 ./system/src/diag/trace_impl.o
+ .group         0x00000000        0x8 ./system/src/diag/trace_impl.o
+ .group         0x00000000        0x8 ./system/src/diag/trace_impl.o
+ .group         0x00000000        0x8 ./system/src/diag/trace_impl.o
+ .group         0x00000000        0x8 ./system/src/diag/trace_impl.o
+ .group         0x00000000        0x8 ./system/src/diag/trace_impl.o
+ .group         0x00000000        0x8 ./system/src/diag/trace_impl.o
+ .group         0x00000000        0x8 ./system/src/diag/trace_impl.o
+ .group         0x00000000        0x8 ./system/src/diag/trace_impl.o
+ .group         0x00000000        0x8 ./system/src/diag/trace_impl.o
+ .text          0x00000000        0x0 ./system/src/diag/trace_impl.o
+ .data          0x00000000        0x0 ./system/src/diag/trace_impl.o
+ .bss           0x00000000        0x0 ./system/src/diag/trace_impl.o
+ .text.trace_initialize
+                0x00000000        0x4 ./system/src/diag/trace_impl.o
+ .debug_macro   0x00000000      0x898 ./system/src/diag/trace_impl.o
+ .debug_macro   0x00000000       0x6e ./system/src/diag/trace_impl.o
+ .debug_macro   0x00000000       0x3b ./system/src/diag/trace_impl.o
+ .debug_macro   0x00000000      0x34e ./system/src/diag/trace_impl.o
+ .debug_macro   0x00000000       0x2d ./system/src/diag/trace_impl.o
+ .debug_macro   0x00000000       0x26 ./system/src/diag/trace_impl.o
+ .debug_macro   0x00000000      0xd39 ./system/src/diag/trace_impl.o
+ .debug_macro   0x00000000     0x769b ./system/src/diag/trace_impl.o
+ .debug_macro   0x00000000      0x5a6 ./system/src/diag/trace_impl.o
+ .debug_macro   0x00000000      0x3cf ./system/src/diag/trace_impl.o
+ .debug_macro   0x00000000       0x46 ./system/src/diag/trace_impl.o
+ .debug_macro   0x00000000      0x231 ./system/src/diag/trace_impl.o
+ .debug_macro   0x00000000      0x196 ./system/src/diag/trace_impl.o
+ .debug_macro   0x00000000       0x8e ./system/src/diag/trace_impl.o
+ .debug_macro   0x00000000      0x3a9 ./system/src/diag/trace_impl.o
+ .debug_macro   0x00000000      0x116 ./system/src/diag/trace_impl.o
+ .debug_macro   0x00000000      0x1e4 ./system/src/diag/trace_impl.o
+ .debug_macro   0x00000000      0x1b6 ./system/src/diag/trace_impl.o
+ .debug_macro   0x00000000      0x1df ./system/src/diag/trace_impl.o
+ .debug_macro   0x00000000      0x29a ./system/src/diag/trace_impl.o
+ .debug_macro   0x00000000       0x70 ./system/src/diag/trace_impl.o
+ .debug_macro   0x00000000      0x10c ./system/src/diag/trace_impl.o
+ .debug_macro   0x00000000       0xb8 ./system/src/diag/trace_impl.o
+ .debug_macro   0x00000000      0x5c6 ./system/src/diag/trace_impl.o
+ .debug_macro   0x00000000      0x551 ./system/src/diag/trace_impl.o
+ .debug_macro   0x00000000      0x3ac ./system/src/diag/trace_impl.o
+ .debug_macro   0x00000000      0x8d8 ./system/src/diag/trace_impl.o
+ .debug_macro   0x00000000      0x364 ./system/src/diag/trace_impl.o
+ .debug_macro   0x00000000       0x34 ./system/src/diag/trace_impl.o
+ .debug_macro   0x00000000       0x89 ./system/src/diag/trace_impl.o
+ .debug_macro   0x00000000       0x35 ./system/src/diag/trace_impl.o
+ .debug_macro   0x00000000       0x58 ./system/src/diag/trace_impl.o
+ .debug_macro   0x00000000       0x22 ./system/src/diag/trace_impl.o
+ .debug_macro   0x00000000       0x35 ./system/src/diag/trace_impl.o
+ .debug_macro   0x00000000       0x9c ./system/src/diag/trace_impl.o
+ .debug_macro   0x00000000       0x4a ./system/src/diag/trace_impl.o
+ .debug_macro   0x00000000      0x27a ./system/src/diag/trace_impl.o
+ .debug_macro   0x00000000       0x52 ./system/src/diag/trace_impl.o
+ .debug_macro   0x00000000       0x16 ./system/src/diag/trace_impl.o
+ .debug_macro   0x00000000       0x19 ./system/src/diag/trace_impl.o
+ .debug_macro   0x00000000       0x22 ./system/src/diag/trace_impl.o
+ .debug_macro   0x00000000       0x22 ./system/src/diag/trace_impl.o
+ .debug_macro   0x00000000       0xbe ./system/src/diag/trace_impl.o
+ .debug_macro   0x00000000      0x48e ./system/src/diag/trace_impl.o
+ .group         0x00000000        0x8 ./system/src/cortexm/_initialize_hardware.o
+ .group         0x00000000        0x8 ./system/src/cortexm/_initialize_hardware.o
+ .group         0x00000000        0x8 ./system/src/cortexm/_initialize_hardware.o
+ .group         0x00000000        0x8 ./system/src/cortexm/_initialize_hardware.o
+ .group         0x00000000        0x8 ./system/src/cortexm/_initialize_hardware.o
+ .group         0x00000000        0x8 ./system/src/cortexm/_initialize_hardware.o
+ .group         0x00000000        0x8 ./system/src/cortexm/_initialize_hardware.o
+ .group         0x00000000        0x8 ./system/src/cortexm/_initialize_hardware.o
+ .group         0x00000000        0x8 ./system/src/cortexm/_initialize_hardware.o
+ .group         0x00000000        0x8 ./system/src/cortexm/_initialize_hardware.o
+ .group         0x00000000        0x8 ./system/src/cortexm/_initialize_hardware.o
+ .group         0x00000000        0x8 ./system/src/cortexm/_initialize_hardware.o
+ .group         0x00000000        0x8 ./system/src/cortexm/_initialize_hardware.o
+ .group         0x00000000        0x8 ./system/src/cortexm/_initialize_hardware.o
+ .group         0x00000000        0x8 ./system/src/cortexm/_initialize_hardware.o
+ .group         0x00000000        0x8 ./system/src/cortexm/_initialize_hardware.o
+ .group         0x00000000        0x8 ./system/src/cortexm/_initialize_hardware.o
+ .group         0x00000000        0x8 ./system/src/cortexm/_initialize_hardware.o
+ .group         0x00000000        0x8 ./system/src/cortexm/_initialize_hardware.o
+ .group         0x00000000        0x8 ./system/src/cortexm/_initialize_hardware.o
+ .group         0x00000000        0x8 ./system/src/cortexm/_initialize_hardware.o
+ .group         0x00000000        0x8 ./system/src/cortexm/_initialize_hardware.o
+ .group         0x00000000        0x8 ./system/src/cortexm/_initialize_hardware.o
+ .group         0x00000000        0x8 ./system/src/cortexm/_initialize_hardware.o
+ .group         0x00000000        0x8 ./system/src/cortexm/_initialize_hardware.o
+ .group         0x00000000        0x8 ./system/src/cortexm/_initialize_hardware.o
+ .group         0x00000000        0x8 ./system/src/cortexm/_initialize_hardware.o
+ .group         0x00000000        0x8 ./system/src/cortexm/_initialize_hardware.o
+ .group         0x00000000        0x8 ./system/src/cortexm/_initialize_hardware.o
+ .group         0x00000000        0x8 ./system/src/cortexm/_initialize_hardware.o
+ .group         0x00000000        0x8 ./system/src/cortexm/_initialize_hardware.o
+ .text          0x00000000        0x0 ./system/src/cortexm/_initialize_hardware.o
+ .data          0x00000000        0x0 ./system/src/cortexm/_initialize_hardware.o
+ .bss           0x00000000        0x0 ./system/src/cortexm/_initialize_hardware.o
+ .debug_macro   0x00000000      0x898 ./system/src/cortexm/_initialize_hardware.o
+ .debug_macro   0x00000000       0x6e ./system/src/cortexm/_initialize_hardware.o
+ .debug_macro   0x00000000       0x3b ./system/src/cortexm/_initialize_hardware.o
+ .debug_macro   0x00000000      0x34e ./system/src/cortexm/_initialize_hardware.o
+ .debug_macro   0x00000000       0x2d ./system/src/cortexm/_initialize_hardware.o
+ .debug_macro   0x00000000       0x26 ./system/src/cortexm/_initialize_hardware.o
+ .debug_macro   0x00000000      0xd39 ./system/src/cortexm/_initialize_hardware.o
+ .debug_macro   0x00000000     0x769b ./system/src/cortexm/_initialize_hardware.o
+ .debug_macro   0x00000000      0x5a6 ./system/src/cortexm/_initialize_hardware.o
+ .debug_macro   0x00000000      0x3cf ./system/src/cortexm/_initialize_hardware.o
+ .debug_macro   0x00000000       0x46 ./system/src/cortexm/_initialize_hardware.o
+ .debug_macro   0x00000000      0x231 ./system/src/cortexm/_initialize_hardware.o
+ .debug_macro   0x00000000      0x196 ./system/src/cortexm/_initialize_hardware.o
+ .debug_macro   0x00000000       0x8e ./system/src/cortexm/_initialize_hardware.o
+ .debug_macro   0x00000000      0x3a9 ./system/src/cortexm/_initialize_hardware.o
+ .debug_macro   0x00000000      0x116 ./system/src/cortexm/_initialize_hardware.o
+ .debug_macro   0x00000000      0x1e4 ./system/src/cortexm/_initialize_hardware.o
+ .debug_macro   0x00000000      0x1b6 ./system/src/cortexm/_initialize_hardware.o
+ .debug_macro   0x00000000      0x1df ./system/src/cortexm/_initialize_hardware.o
+ .debug_macro   0x00000000      0x29a ./system/src/cortexm/_initialize_hardware.o
+ .debug_macro   0x00000000       0x70 ./system/src/cortexm/_initialize_hardware.o
+ .debug_macro   0x00000000      0x10c ./system/src/cortexm/_initialize_hardware.o
+ .debug_macro   0x00000000       0xb8 ./system/src/cortexm/_initialize_hardware.o
+ .debug_macro   0x00000000      0x5c6 ./system/src/cortexm/_initialize_hardware.o
+ .debug_macro   0x00000000      0x551 ./system/src/cortexm/_initialize_hardware.o
+ .debug_macro   0x00000000      0x3ac ./system/src/cortexm/_initialize_hardware.o
+ .debug_macro   0x00000000      0x8d8 ./system/src/cortexm/_initialize_hardware.o
+ .debug_macro   0x00000000      0x364 ./system/src/cortexm/_initialize_hardware.o
+ .debug_macro   0x00000000       0x34 ./system/src/cortexm/_initialize_hardware.o
+ .debug_macro   0x00000000       0x89 ./system/src/cortexm/_initialize_hardware.o
+ .debug_macro   0x00000000       0x35 ./system/src/cortexm/_initialize_hardware.o
+ .group         0x00000000        0x8 ./system/src/cortexm/_reset_hardware.o
+ .group         0x00000000        0x8 ./system/src/cortexm/_reset_hardware.o
+ .group         0x00000000        0x8 ./system/src/cortexm/_reset_hardware.o
+ .group         0x00000000        0x8 ./system/src/cortexm/_reset_hardware.o
+ .group         0x00000000        0x8 ./system/src/cortexm/_reset_hardware.o
+ .group         0x00000000        0x8 ./system/src/cortexm/_reset_hardware.o
+ .group         0x00000000        0x8 ./system/src/cortexm/_reset_hardware.o
+ .group         0x00000000        0x8 ./system/src/cortexm/_reset_hardware.o
+ .group         0x00000000        0x8 ./system/src/cortexm/_reset_hardware.o
+ .group         0x00000000        0x8 ./system/src/cortexm/_reset_hardware.o
+ .group         0x00000000        0x8 ./system/src/cortexm/_reset_hardware.o
+ .group         0x00000000        0x8 ./system/src/cortexm/_reset_hardware.o
+ .group         0x00000000        0x8 ./system/src/cortexm/_reset_hardware.o
+ .group         0x00000000        0x8 ./system/src/cortexm/_reset_hardware.o
+ .group         0x00000000        0x8 ./system/src/cortexm/_reset_hardware.o
+ .group         0x00000000        0x8 ./system/src/cortexm/_reset_hardware.o
+ .group         0x00000000        0x8 ./system/src/cortexm/_reset_hardware.o
+ .group         0x00000000        0x8 ./system/src/cortexm/_reset_hardware.o
+ .group         0x00000000        0x8 ./system/src/cortexm/_reset_hardware.o
+ .group         0x00000000        0x8 ./system/src/cortexm/_reset_hardware.o
+ .group         0x00000000        0x8 ./system/src/cortexm/_reset_hardware.o
+ .group         0x00000000        0x8 ./system/src/cortexm/_reset_hardware.o
+ .group         0x00000000        0x8 ./system/src/cortexm/_reset_hardware.o
+ .group         0x00000000        0x8 ./system/src/cortexm/_reset_hardware.o
+ .group         0x00000000        0x8 ./system/src/cortexm/_reset_hardware.o
+ .group         0x00000000        0x8 ./system/src/cortexm/_reset_hardware.o
+ .group         0x00000000        0x8 ./system/src/cortexm/_reset_hardware.o
+ .group         0x00000000        0x8 ./system/src/cortexm/_reset_hardware.o
+ .group         0x00000000        0x8 ./system/src/cortexm/_reset_hardware.o
+ .group         0x00000000        0x8 ./system/src/cortexm/_reset_hardware.o
+ .group         0x00000000        0x8 ./system/src/cortexm/_reset_hardware.o
+ .text          0x00000000        0x0 ./system/src/cortexm/_reset_hardware.o
+ .data          0x00000000        0x0 ./system/src/cortexm/_reset_hardware.o
+ .bss           0x00000000        0x0 ./system/src/cortexm/_reset_hardware.o
+ .text.__reset_hardware
+                0x00000000       0x20 ./system/src/cortexm/_reset_hardware.o
+ .debug_info    0x00000000      0x295 ./system/src/cortexm/_reset_hardware.o
+ .debug_abbrev  0x00000000       0xea ./system/src/cortexm/_reset_hardware.o
+ .debug_aranges
+                0x00000000       0x20 ./system/src/cortexm/_reset_hardware.o
+ .debug_ranges  0x00000000       0x10 ./system/src/cortexm/_reset_hardware.o
+ .debug_macro   0x00000000      0x15c ./system/src/cortexm/_reset_hardware.o
+ .debug_macro   0x00000000      0x898 ./system/src/cortexm/_reset_hardware.o
+ .debug_macro   0x00000000       0x6e ./system/src/cortexm/_reset_hardware.o
+ .debug_macro   0x00000000       0x3b ./system/src/cortexm/_reset_hardware.o
+ .debug_macro   0x00000000      0x34e ./system/src/cortexm/_reset_hardware.o
+ .debug_macro   0x00000000       0x2d ./system/src/cortexm/_reset_hardware.o
+ .debug_macro   0x00000000       0x26 ./system/src/cortexm/_reset_hardware.o
+ .debug_macro   0x00000000      0xd39 ./system/src/cortexm/_reset_hardware.o
+ .debug_macro   0x00000000     0x769b ./system/src/cortexm/_reset_hardware.o
+ .debug_macro   0x00000000      0x5a6 ./system/src/cortexm/_reset_hardware.o
+ .debug_macro   0x00000000      0x3cf ./system/src/cortexm/_reset_hardware.o
+ .debug_macro   0x00000000       0x46 ./system/src/cortexm/_reset_hardware.o
+ .debug_macro   0x00000000      0x231 ./system/src/cortexm/_reset_hardware.o
+ .debug_macro   0x00000000      0x196 ./system/src/cortexm/_reset_hardware.o
+ .debug_macro   0x00000000       0x8e ./system/src/cortexm/_reset_hardware.o
+ .debug_macro   0x00000000      0x3a9 ./system/src/cortexm/_reset_hardware.o
+ .debug_macro   0x00000000      0x116 ./system/src/cortexm/_reset_hardware.o
+ .debug_macro   0x00000000      0x1e4 ./system/src/cortexm/_reset_hardware.o
+ .debug_macro   0x00000000      0x1b6 ./system/src/cortexm/_reset_hardware.o
+ .debug_macro   0x00000000      0x1df ./system/src/cortexm/_reset_hardware.o
+ .debug_macro   0x00000000      0x29a ./system/src/cortexm/_reset_hardware.o
+ .debug_macro   0x00000000       0x70 ./system/src/cortexm/_reset_hardware.o
+ .debug_macro   0x00000000      0x10c ./system/src/cortexm/_reset_hardware.o
+ .debug_macro   0x00000000       0xb8 ./system/src/cortexm/_reset_hardware.o
+ .debug_macro   0x00000000      0x5c6 ./system/src/cortexm/_reset_hardware.o
+ .debug_macro   0x00000000      0x551 ./system/src/cortexm/_reset_hardware.o
+ .debug_macro   0x00000000      0x3ac ./system/src/cortexm/_reset_hardware.o
+ .debug_macro   0x00000000      0x8d8 ./system/src/cortexm/_reset_hardware.o
+ .debug_macro   0x00000000      0x364 ./system/src/cortexm/_reset_hardware.o
+ .debug_macro   0x00000000       0x34 ./system/src/cortexm/_reset_hardware.o
+ .debug_macro   0x00000000       0x89 ./system/src/cortexm/_reset_hardware.o
+ .debug_macro   0x00000000       0x35 ./system/src/cortexm/_reset_hardware.o
+ .debug_line    0x00000000      0x368 ./system/src/cortexm/_reset_hardware.o
+ .debug_str     0x00000000    0x5345e ./system/src/cortexm/_reset_hardware.o
+ .comment       0x00000000       0x71 ./system/src/cortexm/_reset_hardware.o
+ .debug_frame   0x00000000       0x20 ./system/src/cortexm/_reset_hardware.o
+ .ARM.attributes
+                0x00000000       0x33 ./system/src/cortexm/_reset_hardware.o
+ .group         0x00000000        0x8 ./system/src/cortexm/exception_handlers.o
+ .group         0x00000000        0x8 ./system/src/cortexm/exception_handlers.o
+ .group         0x00000000        0x8 ./system/src/cortexm/exception_handlers.o
+ .group         0x00000000        0x8 ./system/src/cortexm/exception_handlers.o
+ .group         0x00000000        0x8 ./system/src/cortexm/exception_handlers.o
+ .group         0x00000000        0x8 ./system/src/cortexm/exception_handlers.o
+ .group         0x00000000        0x8 ./system/src/cortexm/exception_handlers.o
+ .group         0x00000000        0x8 ./system/src/cortexm/exception_handlers.o
+ .group         0x00000000        0x8 ./system/src/cortexm/exception_handlers.o
+ .group         0x00000000        0x8 ./system/src/cortexm/exception_handlers.o
+ .group         0x00000000        0x8 ./system/src/cortexm/exception_handlers.o
+ .group         0x00000000        0x8 ./system/src/cortexm/exception_handlers.o
+ .group         0x00000000        0x8 ./system/src/cortexm/exception_handlers.o
+ .group         0x00000000        0x8 ./system/src/cortexm/exception_handlers.o
+ .group         0x00000000        0x8 ./system/src/cortexm/exception_handlers.o
+ .group         0x00000000        0x8 ./system/src/cortexm/exception_handlers.o
+ .group         0x00000000        0x8 ./system/src/cortexm/exception_handlers.o
+ .group         0x00000000        0x8 ./system/src/cortexm/exception_handlers.o
+ .group         0x00000000        0x8 ./system/src/cortexm/exception_handlers.o
+ .group         0x00000000        0x8 ./system/src/cortexm/exception_handlers.o
+ .group         0x00000000        0x8 ./system/src/cortexm/exception_handlers.o
+ .group         0x00000000        0x8 ./system/src/cortexm/exception_handlers.o
+ .group         0x00000000        0x8 ./system/src/cortexm/exception_handlers.o
+ .group         0x00000000        0x8 ./system/src/cortexm/exception_handlers.o
+ .group         0x00000000        0x8 ./system/src/cortexm/exception_handlers.o
+ .group         0x00000000        0x8 ./system/src/cortexm/exception_handlers.o
+ .group         0x00000000        0x8 ./system/src/cortexm/exception_handlers.o
+ .group         0x00000000        0x8 ./system/src/cortexm/exception_handlers.o
+ .group         0x00000000        0x8 ./system/src/cortexm/exception_handlers.o
+ .group         0x00000000        0x8 ./system/src/cortexm/exception_handlers.o
+ .group         0x00000000        0x8 ./system/src/cortexm/exception_handlers.o
+ .group         0x00000000        0x8 ./system/src/cortexm/exception_handlers.o
+ .group         0x00000000        0x8 ./system/src/cortexm/exception_handlers.o
+ .group         0x00000000        0x8 ./system/src/cortexm/exception_handlers.o
+ .group         0x00000000        0x8 ./system/src/cortexm/exception_handlers.o
+ .group         0x00000000        0x8 ./system/src/cortexm/exception_handlers.o
+ .group         0x00000000        0x8 ./system/src/cortexm/exception_handlers.o
+ .group         0x00000000        0x8 ./system/src/cortexm/exception_handlers.o
+ .group         0x00000000        0x8 ./system/src/cortexm/exception_handlers.o
+ .group         0x00000000        0x8 ./system/src/cortexm/exception_handlers.o
+ .group         0x00000000        0x8 ./system/src/cortexm/exception_handlers.o
+ .group         0x00000000        0x8 ./system/src/cortexm/exception_handlers.o
+ .group         0x00000000        0x8 ./system/src/cortexm/exception_handlers.o
+ .group         0x00000000        0x8 ./system/src/cortexm/exception_handlers.o
+ .group         0x00000000        0x8 ./system/src/cortexm/exception_handlers.o
+ .group         0x00000000        0x8 ./system/src/cortexm/exception_handlers.o
+ .group         0x00000000        0x8 ./system/src/cortexm/exception_handlers.o
+ .group         0x00000000        0x8 ./system/src/cortexm/exception_handlers.o
+ .group         0x00000000        0x8 ./system/src/cortexm/exception_handlers.o
+ .group         0x00000000        0x8 ./system/src/cortexm/exception_handlers.o
+ .group         0x00000000        0x8 ./system/src/cortexm/exception_handlers.o
+ .text          0x00000000        0x0 ./system/src/cortexm/exception_handlers.o
+ .data          0x00000000        0x0 ./system/src/cortexm/exception_handlers.o
+ .bss           0x00000000        0x0 ./system/src/cortexm/exception_handlers.o
+ .debug_macro   0x00000000      0x898 ./system/src/cortexm/exception_handlers.o
+ .debug_macro   0x00000000      0x34e ./system/src/cortexm/exception_handlers.o
+ .debug_macro   0x00000000       0x6e ./system/src/cortexm/exception_handlers.o
+ .debug_macro   0x00000000       0x3b ./system/src/cortexm/exception_handlers.o
+ .debug_macro   0x00000000       0x2d ./system/src/cortexm/exception_handlers.o
+ .debug_macro   0x00000000       0x26 ./system/src/cortexm/exception_handlers.o
+ .debug_macro   0x00000000      0xd39 ./system/src/cortexm/exception_handlers.o
+ .debug_macro   0x00000000     0x769b ./system/src/cortexm/exception_handlers.o
+ .debug_macro   0x00000000      0x5a6 ./system/src/cortexm/exception_handlers.o
+ .debug_macro   0x00000000      0x3cf ./system/src/cortexm/exception_handlers.o
+ .debug_macro   0x00000000       0x46 ./system/src/cortexm/exception_handlers.o
+ .debug_macro   0x00000000      0x231 ./system/src/cortexm/exception_handlers.o
+ .debug_macro   0x00000000      0x196 ./system/src/cortexm/exception_handlers.o
+ .debug_macro   0x00000000       0x8e ./system/src/cortexm/exception_handlers.o
+ .debug_macro   0x00000000      0x3a9 ./system/src/cortexm/exception_handlers.o
+ .debug_macro   0x00000000      0x116 ./system/src/cortexm/exception_handlers.o
+ .debug_macro   0x00000000      0x1e4 ./system/src/cortexm/exception_handlers.o
+ .debug_macro   0x00000000      0x1b6 ./system/src/cortexm/exception_handlers.o
+ .debug_macro   0x00000000      0x1df ./system/src/cortexm/exception_handlers.o
+ .debug_macro   0x00000000      0x29a ./system/src/cortexm/exception_handlers.o
+ .debug_macro   0x00000000       0x70 ./system/src/cortexm/exception_handlers.o
+ .debug_macro   0x00000000      0x10c ./system/src/cortexm/exception_handlers.o
+ .debug_macro   0x00000000       0xb8 ./system/src/cortexm/exception_handlers.o
+ .debug_macro   0x00000000      0x5c6 ./system/src/cortexm/exception_handlers.o
+ .debug_macro   0x00000000      0x551 ./system/src/cortexm/exception_handlers.o
+ .debug_macro   0x00000000      0x3ac ./system/src/cortexm/exception_handlers.o
+ .debug_macro   0x00000000      0x8d8 ./system/src/cortexm/exception_handlers.o
+ .debug_macro   0x00000000      0x364 ./system/src/cortexm/exception_handlers.o
+ .debug_macro   0x00000000       0x34 ./system/src/cortexm/exception_handlers.o
+ .debug_macro   0x00000000       0x89 ./system/src/cortexm/exception_handlers.o
+ .debug_macro   0x00000000       0x35 ./system/src/cortexm/exception_handlers.o
+ .debug_macro   0x00000000       0x22 ./system/src/cortexm/exception_handlers.o
+ .debug_macro   0x00000000       0x58 ./system/src/cortexm/exception_handlers.o
+ .debug_macro   0x00000000       0x22 ./system/src/cortexm/exception_handlers.o
+ .debug_macro   0x00000000       0x35 ./system/src/cortexm/exception_handlers.o
+ .debug_macro   0x00000000       0x9c ./system/src/cortexm/exception_handlers.o
+ .debug_macro   0x00000000       0x10 ./system/src/cortexm/exception_handlers.o
+ .debug_macro   0x00000000       0x4a ./system/src/cortexm/exception_handlers.o
+ .debug_macro   0x00000000       0xc8 ./system/src/cortexm/exception_handlers.o
+ .debug_macro   0x00000000      0x27a ./system/src/cortexm/exception_handlers.o
+ .debug_macro   0x00000000       0x52 ./system/src/cortexm/exception_handlers.o
+ .debug_macro   0x00000000       0x16 ./system/src/cortexm/exception_handlers.o
+ .debug_macro   0x00000000       0x19 ./system/src/cortexm/exception_handlers.o
+ .debug_macro   0x00000000       0x22 ./system/src/cortexm/exception_handlers.o
+ .debug_macro   0x00000000       0xbe ./system/src/cortexm/exception_handlers.o
+ .debug_macro   0x00000000       0x22 ./system/src/cortexm/exception_handlers.o
+ .debug_macro   0x00000000       0xbe ./system/src/cortexm/exception_handlers.o
+ .debug_macro   0x00000000      0x48e ./system/src/cortexm/exception_handlers.o
+ .debug_macro   0x00000000      0x180 ./system/src/cortexm/exception_handlers.o
+ .debug_macro   0x00000000       0x35 ./system/src/cortexm/exception_handlers.o
+ .group         0x00000000        0x8 ./system/src/cmsis/system_stm32f30x.o
+ .group         0x00000000        0x8 ./system/src/cmsis/system_stm32f30x.o
+ .group         0x00000000        0x8 ./system/src/cmsis/system_stm32f30x.o
+ .group         0x00000000        0x8 ./system/src/cmsis/system_stm32f30x.o
+ .group         0x00000000        0x8 ./system/src/cmsis/system_stm32f30x.o
+ .group         0x00000000        0x8 ./system/src/cmsis/system_stm32f30x.o
+ .group         0x00000000        0x8 ./system/src/cmsis/system_stm32f30x.o
+ .group         0x00000000        0x8 ./system/src/cmsis/system_stm32f30x.o
+ .group         0x00000000        0x8 ./system/src/cmsis/system_stm32f30x.o
+ .group         0x00000000        0x8 ./system/src/cmsis/system_stm32f30x.o
+ .group         0x00000000        0x8 ./system/src/cmsis/system_stm32f30x.o
+ .group         0x00000000        0x8 ./system/src/cmsis/system_stm32f30x.o
+ .group         0x00000000        0x8 ./system/src/cmsis/system_stm32f30x.o
+ .group         0x00000000        0x8 ./system/src/cmsis/system_stm32f30x.o
+ .group         0x00000000        0x8 ./system/src/cmsis/system_stm32f30x.o
+ .group         0x00000000        0x8 ./system/src/cmsis/system_stm32f30x.o
+ .group         0x00000000        0x8 ./system/src/cmsis/system_stm32f30x.o
+ .group         0x00000000        0x8 ./system/src/cmsis/system_stm32f30x.o
+ .group         0x00000000        0x8 ./system/src/cmsis/system_stm32f30x.o
+ .group         0x00000000        0x8 ./system/src/cmsis/system_stm32f30x.o
+ .group         0x00000000        0x8 ./system/src/cmsis/system_stm32f30x.o
+ .group         0x00000000        0x8 ./system/src/cmsis/system_stm32f30x.o
+ .group         0x00000000        0x8 ./system/src/cmsis/system_stm32f30x.o
+ .group         0x00000000        0x8 ./system/src/cmsis/system_stm32f30x.o
+ .group         0x00000000        0x8 ./system/src/cmsis/system_stm32f30x.o
+ .group         0x00000000        0x8 ./system/src/cmsis/system_stm32f30x.o
+ .group         0x00000000        0x8 ./system/src/cmsis/system_stm32f30x.o
+ .group         0x00000000        0x8 ./system/src/cmsis/system_stm32f30x.o
+ .group         0x00000000        0x8 ./system/src/cmsis/system_stm32f30x.o
+ .group         0x00000000        0x8 ./system/src/cmsis/system_stm32f30x.o
+ .group         0x00000000        0x8 ./system/src/cmsis/system_stm32f30x.o
+ .text          0x00000000        0x0 ./system/src/cmsis/system_stm32f30x.o
+ .data          0x00000000        0x0 ./system/src/cmsis/system_stm32f30x.o
+ .bss           0x00000000        0x0 ./system/src/cmsis/system_stm32f30x.o
+ .debug_macro   0x00000000      0x898 ./system/src/cmsis/system_stm32f30x.o
+ .debug_macro   0x00000000       0x6e ./system/src/cmsis/system_stm32f30x.o
+ .debug_macro   0x00000000       0x3b ./system/src/cmsis/system_stm32f30x.o
+ .debug_macro   0x00000000      0x34e ./system/src/cmsis/system_stm32f30x.o
+ .debug_macro   0x00000000       0x2d ./system/src/cmsis/system_stm32f30x.o
+ .debug_macro   0x00000000       0x26 ./system/src/cmsis/system_stm32f30x.o
+ .debug_macro   0x00000000      0xd39 ./system/src/cmsis/system_stm32f30x.o
+ .debug_macro   0x00000000     0x769b ./system/src/cmsis/system_stm32f30x.o
+ .debug_macro   0x00000000      0x5a6 ./system/src/cmsis/system_stm32f30x.o
+ .debug_macro   0x00000000      0x3cf ./system/src/cmsis/system_stm32f30x.o
+ .debug_macro   0x00000000       0x46 ./system/src/cmsis/system_stm32f30x.o
+ .debug_macro   0x00000000      0x231 ./system/src/cmsis/system_stm32f30x.o
+ .debug_macro   0x00000000      0x196 ./system/src/cmsis/system_stm32f30x.o
+ .debug_macro   0x00000000       0x8e ./system/src/cmsis/system_stm32f30x.o
+ .debug_macro   0x00000000      0x3a9 ./system/src/cmsis/system_stm32f30x.o
+ .debug_macro   0x00000000      0x116 ./system/src/cmsis/system_stm32f30x.o
+ .debug_macro   0x00000000      0x1e4 ./system/src/cmsis/system_stm32f30x.o
+ .debug_macro   0x00000000      0x1b6 ./system/src/cmsis/system_stm32f30x.o
+ .debug_macro   0x00000000      0x1df ./system/src/cmsis/system_stm32f30x.o
+ .debug_macro   0x00000000      0x29a ./system/src/cmsis/system_stm32f30x.o
+ .debug_macro   0x00000000       0x70 ./system/src/cmsis/system_stm32f30x.o
+ .debug_macro   0x00000000      0x10c ./system/src/cmsis/system_stm32f30x.o
+ .debug_macro   0x00000000       0xb8 ./system/src/cmsis/system_stm32f30x.o
+ .debug_macro   0x00000000      0x5c6 ./system/src/cmsis/system_stm32f30x.o
+ .debug_macro   0x00000000      0x551 ./system/src/cmsis/system_stm32f30x.o
+ .debug_macro   0x00000000      0x3ac ./system/src/cmsis/system_stm32f30x.o
+ .debug_macro   0x00000000      0x8d8 ./system/src/cmsis/system_stm32f30x.o
+ .debug_macro   0x00000000      0x364 ./system/src/cmsis/system_stm32f30x.o
+ .debug_macro   0x00000000       0x34 ./system/src/cmsis/system_stm32f30x.o
+ .debug_macro   0x00000000       0x89 ./system/src/cmsis/system_stm32f30x.o
+ .debug_macro   0x00000000       0x35 ./system/src/cmsis/system_stm32f30x.o
+ .group         0x00000000        0x8 ./system/src/cmsis/vectors_stm32f30x.o
+ .group         0x00000000        0x8 ./system/src/cmsis/vectors_stm32f30x.o
+ .text          0x00000000        0x0 ./system/src/cmsis/vectors_stm32f30x.o
+ .data          0x00000000        0x0 ./system/src/cmsis/vectors_stm32f30x.o
+ .bss           0x00000000        0x0 ./system/src/cmsis/vectors_stm32f30x.o
+ .debug_macro   0x00000000      0x898 ./system/src/cmsis/vectors_stm32f30x.o
+ .debug_macro   0x00000000      0x34e ./system/src/cmsis/vectors_stm32f30x.o
+ .group         0x00000000        0x8 ./src/BlinkLed.o
+ .group         0x00000000        0x8 ./src/BlinkLed.o
+ .group         0x00000000        0x8 ./src/BlinkLed.o
+ .group         0x00000000        0x8 ./src/BlinkLed.o
+ .group         0x00000000        0x8 ./src/BlinkLed.o
+ .group         0x00000000        0x8 ./src/BlinkLed.o
+ .group         0x00000000        0x8 ./src/BlinkLed.o
+ .group         0x00000000        0x8 ./src/BlinkLed.o
+ .group         0x00000000        0x8 ./src/BlinkLed.o
+ .group         0x00000000        0x8 ./src/BlinkLed.o
+ .group         0x00000000        0x8 ./src/BlinkLed.o
+ .group         0x00000000        0x8 ./src/BlinkLed.o
+ .group         0x00000000        0x8 ./src/BlinkLed.o
+ .group         0x00000000        0x8 ./src/BlinkLed.o
+ .group         0x00000000        0x8 ./src/BlinkLed.o
+ .group         0x00000000        0x8 ./src/BlinkLed.o
+ .group         0x00000000        0x8 ./src/BlinkLed.o
+ .group         0x00000000        0x8 ./src/BlinkLed.o
+ .group         0x00000000        0x8 ./src/BlinkLed.o
+ .group         0x00000000        0x8 ./src/BlinkLed.o
+ .group         0x00000000        0x8 ./src/BlinkLed.o
+ .group         0x00000000        0x8 ./src/BlinkLed.o
+ .group         0x00000000        0x8 ./src/BlinkLed.o
+ .group         0x00000000        0x8 ./src/BlinkLed.o
+ .group         0x00000000        0x8 ./src/BlinkLed.o
+ .group         0x00000000        0x8 ./src/BlinkLed.o
+ .group         0x00000000        0x8 ./src/BlinkLed.o
+ .group         0x00000000        0x8 ./src/BlinkLed.o
+ .group         0x00000000        0x8 ./src/BlinkLed.o
+ .group         0x00000000        0x8 ./src/BlinkLed.o
+ .group         0x00000000        0x8 ./src/BlinkLed.o
+ .group         0x00000000        0x8 ./src/BlinkLed.o
+ .text          0x00000000        0x0 ./src/BlinkLed.o
+ .data          0x00000000        0x0 ./src/BlinkLed.o
+ .bss           0x00000000        0x0 ./src/BlinkLed.o
+ .debug_macro   0x00000000      0x898 ./src/BlinkLed.o
+ .debug_macro   0x00000000       0x6e ./src/BlinkLed.o
+ .debug_macro   0x00000000       0x3b ./src/BlinkLed.o
+ .debug_macro   0x00000000      0x34e ./src/BlinkLed.o
+ .debug_macro   0x00000000       0x2d ./src/BlinkLed.o
+ .debug_macro   0x00000000       0x26 ./src/BlinkLed.o
+ .debug_macro   0x00000000      0xd39 ./src/BlinkLed.o
+ .debug_macro   0x00000000     0x769b ./src/BlinkLed.o
+ .debug_macro   0x00000000      0x5a6 ./src/BlinkLed.o
+ .debug_macro   0x00000000      0x3cf ./src/BlinkLed.o
+ .debug_macro   0x00000000       0x46 ./src/BlinkLed.o
+ .debug_macro   0x00000000      0x231 ./src/BlinkLed.o
+ .debug_macro   0x00000000      0x196 ./src/BlinkLed.o
+ .debug_macro   0x00000000       0x8e ./src/BlinkLed.o
+ .debug_macro   0x00000000      0x3a9 ./src/BlinkLed.o
+ .debug_macro   0x00000000      0x116 ./src/BlinkLed.o
+ .debug_macro   0x00000000      0x1e4 ./src/BlinkLed.o
+ .debug_macro   0x00000000      0x1b6 ./src/BlinkLed.o
+ .debug_macro   0x00000000      0x1df ./src/BlinkLed.o
+ .debug_macro   0x00000000      0x29a ./src/BlinkLed.o
+ .debug_macro   0x00000000       0x70 ./src/BlinkLed.o
+ .debug_macro   0x00000000      0x10c ./src/BlinkLed.o
+ .debug_macro   0x00000000       0xb8 ./src/BlinkLed.o
+ .debug_macro   0x00000000      0x5c6 ./src/BlinkLed.o
+ .debug_macro   0x00000000      0x551 ./src/BlinkLed.o
+ .debug_macro   0x00000000      0x3ac ./src/BlinkLed.o
+ .debug_macro   0x00000000      0x8d8 ./src/BlinkLed.o
+ .debug_macro   0x00000000      0x364 ./src/BlinkLed.o
+ .debug_macro   0x00000000       0x34 ./src/BlinkLed.o
+ .debug_macro   0x00000000       0x89 ./src/BlinkLed.o
+ .debug_macro   0x00000000       0x35 ./src/BlinkLed.o
+ .group         0x00000000        0x8 ./src/Timer.o
+ .group         0x00000000        0x8 ./src/Timer.o
+ .group         0x00000000        0x8 ./src/Timer.o
+ .group         0x00000000        0x8 ./src/Timer.o
+ .group         0x00000000        0x8 ./src/Timer.o
+ .group         0x00000000        0x8 ./src/Timer.o
+ .group         0x00000000        0x8 ./src/Timer.o
+ .group         0x00000000        0x8 ./src/Timer.o
+ .group         0x00000000        0x8 ./src/Timer.o
+ .group         0x00000000        0x8 ./src/Timer.o
+ .group         0x00000000        0x8 ./src/Timer.o
+ .group         0x00000000        0x8 ./src/Timer.o
+ .group         0x00000000        0x8 ./src/Timer.o
+ .group         0x00000000        0x8 ./src/Timer.o
+ .group         0x00000000        0x8 ./src/Timer.o
+ .group         0x00000000        0x8 ./src/Timer.o
+ .group         0x00000000        0x8 ./src/Timer.o
+ .group         0x00000000        0x8 ./src/Timer.o
+ .group         0x00000000        0x8 ./src/Timer.o
+ .group         0x00000000        0x8 ./src/Timer.o
+ .group         0x00000000        0x8 ./src/Timer.o
+ .group         0x00000000        0x8 ./src/Timer.o
+ .group         0x00000000        0x8 ./src/Timer.o
+ .group         0x00000000        0x8 ./src/Timer.o
+ .group         0x00000000        0x8 ./src/Timer.o
+ .group         0x00000000        0x8 ./src/Timer.o
+ .group         0x00000000        0x8 ./src/Timer.o
+ .group         0x00000000        0x8 ./src/Timer.o
+ .group         0x00000000        0x8 ./src/Timer.o
+ .group         0x00000000        0x8 ./src/Timer.o
+ .group         0x00000000        0x8 ./src/Timer.o
+ .group         0x00000000        0x8 ./src/Timer.o
+ .text          0x00000000        0x0 ./src/Timer.o
+ .data          0x00000000        0x0 ./src/Timer.o
+ .bss           0x00000000        0x0 ./src/Timer.o
+ .debug_macro   0x00000000      0x898 ./src/Timer.o
+ .debug_macro   0x00000000       0x6e ./src/Timer.o
+ .debug_macro   0x00000000       0x3b ./src/Timer.o
+ .debug_macro   0x00000000      0x34e ./src/Timer.o
+ .debug_macro   0x00000000       0x2d ./src/Timer.o
+ .debug_macro   0x00000000       0x26 ./src/Timer.o
+ .debug_macro   0x00000000      0xd39 ./src/Timer.o
+ .debug_macro   0x00000000     0x769b ./src/Timer.o
+ .debug_macro   0x00000000      0x5a6 ./src/Timer.o
+ .debug_macro   0x00000000      0x3cf ./src/Timer.o
+ .debug_macro   0x00000000       0x46 ./src/Timer.o
+ .debug_macro   0x00000000      0x231 ./src/Timer.o
+ .debug_macro   0x00000000      0x196 ./src/Timer.o
+ .debug_macro   0x00000000       0x8e ./src/Timer.o
+ .debug_macro   0x00000000      0x3a9 ./src/Timer.o
+ .debug_macro   0x00000000      0x116 ./src/Timer.o
+ .debug_macro   0x00000000      0x1e4 ./src/Timer.o
+ .debug_macro   0x00000000      0x1b6 ./src/Timer.o
+ .debug_macro   0x00000000      0x1df ./src/Timer.o
+ .debug_macro   0x00000000      0x29a ./src/Timer.o
+ .debug_macro   0x00000000       0x70 ./src/Timer.o
+ .debug_macro   0x00000000      0x10c ./src/Timer.o
+ .debug_macro   0x00000000       0xb8 ./src/Timer.o
+ .debug_macro   0x00000000      0x5c6 ./src/Timer.o
+ .debug_macro   0x00000000      0x551 ./src/Timer.o
+ .debug_macro   0x00000000      0x3ac ./src/Timer.o
+ .debug_macro   0x00000000      0x8d8 ./src/Timer.o
+ .debug_macro   0x00000000      0x364 ./src/Timer.o
+ .debug_macro   0x00000000       0x34 ./src/Timer.o
+ .debug_macro   0x00000000       0x89 ./src/Timer.o
+ .debug_macro   0x00000000       0x35 ./src/Timer.o
+ .group         0x00000000        0x8 ./src/_write.o
+ .text          0x00000000        0x0 ./src/_write.o
+ .data          0x00000000        0x0 ./src/_write.o
+ .bss           0x00000000        0x0 ./src/_write.o
+ .debug_info    0x00000000       0x21 ./src/_write.o
+ .debug_abbrev  0x00000000       0x13 ./src/_write.o
+ .debug_aranges
+                0x00000000       0x18 ./src/_write.o
+ .debug_macro   0x00000000       0x11 ./src/_write.o
+ .debug_macro   0x00000000      0x898 ./src/_write.o
+ .debug_line    0x00000000       0x30 ./src/_write.o
+ .debug_str     0x00000000     0x2527 ./src/_write.o
+ .comment       0x00000000       0x71 ./src/_write.o
+ .ARM.attributes
+                0x00000000       0x33 ./src/_write.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .text          0x00000000        0x0 ./src/main.o
+ .data          0x00000000        0x0 ./src/main.o
+ .bss           0x00000000        0x0 ./src/main.o
+ .debug_macro   0x00000000      0x898 ./src/main.o
+ .debug_macro   0x00000000       0x58 ./src/main.o
+ .debug_macro   0x00000000       0x22 ./src/main.o
+ .debug_macro   0x00000000       0x35 ./src/main.o
+ .debug_macro   0x00000000       0x9c ./src/main.o
+ .debug_macro   0x00000000       0x16 ./src/main.o
+ .debug_macro   0x00000000       0x4a ./src/main.o
+ .debug_macro   0x00000000       0x97 ./src/main.o
+ .debug_macro   0x00000000      0x27a ./src/main.o
+ .debug_macro   0x00000000       0xf6 ./src/main.o
+ .debug_macro   0x00000000       0x10 ./src/main.o
+ .debug_macro   0x00000000       0x52 ./src/main.o
+ .debug_macro   0x00000000       0x16 ./src/main.o
+ .debug_macro   0x00000000       0x43 ./src/main.o
+ .debug_macro   0x00000000      0x180 ./src/main.o
+ .debug_macro   0x00000000       0x10 ./src/main.o
+ .debug_macro   0x00000000       0x22 ./src/main.o
+ .debug_macro   0x00000000       0x22 ./src/main.o
+ .debug_macro   0x00000000       0xbe ./src/main.o
+ .debug_macro   0x00000000       0x16 ./src/main.o
+ .debug_macro   0x00000000      0x197 ./src/main.o
+ .debug_macro   0x00000000       0x16 ./src/main.o
+ .debug_macro   0x00000000       0x35 ./src/main.o
+ .debug_macro   0x00000000       0x16 ./src/main.o
+ .debug_macro   0x00000000       0x29 ./src/main.o
+ .debug_macro   0x00000000       0x16 ./src/main.o
+ .debug_macro   0x00000000      0x48e ./src/main.o
+ .debug_macro   0x00000000       0x6e ./src/main.o
+ .debug_macro   0x00000000       0x3b ./src/main.o
+ .debug_macro   0x00000000      0x34e ./src/main.o
+ .debug_macro   0x00000000       0x2d ./src/main.o
+ .debug_macro   0x00000000       0x26 ./src/main.o
+ .debug_macro   0x00000000      0xd39 ./src/main.o
+ .debug_macro   0x00000000     0x769b ./src/main.o
+ .debug_macro   0x00000000      0x5a6 ./src/main.o
+ .debug_macro   0x00000000      0x3cf ./src/main.o
+ .debug_macro   0x00000000       0x46 ./src/main.o
+ .debug_macro   0x00000000      0x231 ./src/main.o
+ .debug_macro   0x00000000      0x196 ./src/main.o
+ .debug_macro   0x00000000       0x8e ./src/main.o
+ .debug_macro   0x00000000      0x3a9 ./src/main.o
+ .debug_macro   0x00000000      0x116 ./src/main.o
+ .debug_macro   0x00000000      0x1e4 ./src/main.o
+ .debug_macro   0x00000000      0x1b6 ./src/main.o
+ .debug_macro   0x00000000      0x1df ./src/main.o
+ .debug_macro   0x00000000      0x29a ./src/main.o
+ .debug_macro   0x00000000       0x70 ./src/main.o
+ .debug_macro   0x00000000      0x10c ./src/main.o
+ .debug_macro   0x00000000       0xb8 ./src/main.o
+ .debug_macro   0x00000000      0x5c6 ./src/main.o
+ .debug_macro   0x00000000      0x551 ./src/main.o
+ .debug_macro   0x00000000      0x3ac ./src/main.o
+ .debug_macro   0x00000000      0x8d8 ./src/main.o
+ .debug_macro   0x00000000      0x364 ./src/main.o
+ .debug_macro   0x00000000       0x34 ./src/main.o
+ .debug_macro   0x00000000       0x89 ./src/main.o
+ .debug_macro   0x00000000       0x35 ./src/main.o
+ .text          0x00000000        0x0 /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-errno.o)
+ .data          0x00000000        0x0 /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-errno.o)
+ .bss           0x00000000        0x0 /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-errno.o)
+ .text          0x00000000        0x0 /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-impure.o)
+ .data          0x00000000        0x0 /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x00000000        0x4 /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-impure.o)
+ .text          0x00000000        0x0 /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-strlen.o)
+ .data          0x00000000        0x0 /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-strlen.o)
+ .bss           0x00000000        0x0 /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-strlen.o)
+ .text          0x00000000        0x0 /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-vsnprintf.o)
+ .data          0x00000000        0x0 /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-vsnprintf.o)
+ .bss           0x00000000        0x0 /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-vsnprintf.o)
+ .text          0x00000000        0x0 /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-nano-svfprintf.o)
+ .data          0x00000000        0x0 /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-nano-svfprintf.o)
+ .bss           0x00000000        0x0 /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-nano-svfprintf.o)
+ .text.__ssprint_r
+                0x00000000       0xfe /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-nano-svfprintf.o)
+ .text          0x00000000        0x0 /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-nano-vfprintf_i.o)
+ .data          0x00000000        0x0 /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-nano-vfprintf_i.o)
+ .bss           0x00000000        0x0 /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-nano-vfprintf_i.o)
+ .text          0x00000000        0x0 /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-memchr.o)
+ .data          0x00000000        0x0 /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-memchr.o)
+ .bss           0x00000000        0x0 /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-memchr.o)
+ .text          0x00000000        0x0 /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-memcpy.o)
+ .data          0x00000000        0x0 /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-memcpy.o)
+ .bss           0x00000000        0x0 /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-memcpy.o)
+ .text          0x00000000        0x0 /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-memmove.o)
+ .data          0x00000000        0x0 /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-memmove.o)
+ .bss           0x00000000        0x0 /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-memmove.o)
+ .text          0x00000000        0x0 /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-nano-freer.o)
+ .data          0x00000000        0x0 /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-nano-freer.o)
+ .bss           0x00000000        0x0 /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-nano-freer.o)
+ .text          0x00000000        0x0 /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-nano-mallocr.o)
+ .data          0x00000000        0x0 /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-nano-mallocr.o)
+ .bss           0x00000000        0x0 /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-nano-mallocr.o)
+ .text          0x00000000        0x0 /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-nano-reallocr.o)
+ .data          0x00000000        0x0 /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-nano-reallocr.o)
+ .bss           0x00000000        0x0 /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-nano-reallocr.o)
+ .text          0x00000000        0x0 /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-sbrkr.o)
+ .data          0x00000000        0x0 /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-sbrkr.o)
+ .bss           0x00000000        0x0 /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-sbrkr.o)
+ .text          0x00000000        0x0 /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-nano-msizer.o)
+ .data          0x00000000        0x0 /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-nano-msizer.o)
+ .bss           0x00000000        0x0 /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-nano-msizer.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+RAM              0x20000000         0x0000a000         xrw
+CCMRAM           0x10000000         0x00002000         xrw
+FLASH            0x08000000         0x00040000         xr
+FLASHB1          0x00000000         0x00000000         xr
+EXTMEMB0         0x00000000         0x00000000         xr
+EXTMEMB1         0x00000000         0x00000000         xr
+EXTMEMB2         0x00000000         0x00000000         xr
+EXTMEMB3         0x00000000         0x00000000         xr
+MEMORY_ARRAY     0x20002000         0x00000000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+LOAD ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+LOAD ./system/src/newlib/_cxx.o
+LOAD ./system/src/newlib/_exit.o
+LOAD ./system/src/newlib/_sbrk.o
+LOAD ./system/src/newlib/_startup.o
+LOAD ./system/src/newlib/_syscalls.o
+LOAD ./system/src/newlib/assert.o
+LOAD ./system/src/diag/Trace.o
+LOAD ./system/src/diag/trace_impl.o
+LOAD ./system/src/cortexm/_initialize_hardware.o
+LOAD ./system/src/cortexm/_reset_hardware.o
+LOAD ./system/src/cortexm/exception_handlers.o
+LOAD ./system/src/cmsis/system_stm32f30x.o
+LOAD ./system/src/cmsis/vectors_stm32f30x.o
+LOAD ./src/BlinkLed.o
+LOAD ./src/Timer.o
+LOAD ./src/_write.o
+LOAD ./src/main.o
+LOAD /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libstdc++_nano.a
+LOAD /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libm.a
+START GROUP
+LOAD /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/libgcc.a
+LOAD /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a
+LOAD /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libc_nano.a
+END GROUP
+START GROUP
+LOAD /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/libgcc.a
+LOAD /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libc_nano.a
+END GROUP
+                0x2000a000                __stack = (ORIGIN (RAM) + 0xa000)
+                0x2000a000                _estack = __stack
+                0x00000400                __Main_Stack_Size = 0x400
+                0x00000400                PROVIDE (_Main_Stack_Size, __Main_Stack_Size)
+                0x20009c00                __Main_Stack_Limit = (__stack - __Main_Stack_Size)
+                0x20009c00                PROVIDE (_Main_Stack_Limit, __Main_Stack_Limit)
+                0x00000100                _Minimum_Stack_Size = 0x100
+                0x20000128                PROVIDE (_Heap_Begin, _end_noinit)
+                0x20009c00                PROVIDE (_Heap_Limit, (__stack - __Main_Stack_Size))
+
+.isr_vector     0x08000000      0x3ec
+ FILL mask 0xff
+                0x08000000                __vectors_start = ABSOLUTE (.)
+                0x08000000                __vectors_start__ = ABSOLUTE (.)
+ *(.isr_vector)
+ .isr_vector    0x08000000      0x188 ./system/src/cmsis/vectors_stm32f30x.o
+                0x08000000                __isr_vectors
+ *(.cfmconfig)
+ *(.after_vectors .after_vectors.*)
+ .after_vectors
+                0x08000188      0x130 ./system/src/newlib/_startup.o
+                0x08000188                _start
+ .after_vectors
+                0x080002b8      0x130 ./system/src/cortexm/exception_handlers.o
+                0x080002b8                Reset_Handler
+                0x080002c0                NMI_Handler
+                0x080002c4                HardFault_Handler
+                0x080002d8                HardFault_Handler_C
+                0x08000338                MemManage_Handler
+                0x0800033c                BusFault_Handler
+                0x08000350                BusFault_Handler_C
+                0x08000384                UsageFault_Handler
+                0x08000398                UsageFault_Handler_C
+                0x080003cc                SVC_Handler
+                0x080003d0                DebugMon_Handler
+                0x080003d4                PendSV_Handler
+ .after_vectors
+                0x080003e8        0x4 ./system/src/cmsis/vectors_stm32f30x.o
+                0x080003e8                RTC_Alarm_IRQHandler
+                0x080003e8                TIM8_TRG_COM_IRQHandler
+                0x080003e8                TIM8_CC_IRQHandler
+                0x080003e8                TIM1_CC_IRQHandler
+                0x080003e8                USB_HP_IRQHandler
+                0x080003e8                PVD_IRQHandler
+                0x080003e8                EXTI3_IRQHandler
+                0x080003e8                EXTI0_IRQHandler
+                0x080003e8                I2C2_EV_IRQHandler
+                0x080003e8                FPU_IRQHandler
+                0x080003e8                EXTI2_TS_IRQHandler
+                0x080003e8                TIM1_UP_TIM16_IRQHandler
+                0x080003e8                ADC1_2_IRQHandler
+                0x080003e8                SPI1_IRQHandler
+                0x080003e8                TIM6_DAC_IRQHandler
+                0x080003e8                TIM8_UP_IRQHandler
+                0x080003e8                DMA2_Channel2_IRQHandler
+                0x080003e8                DMA1_Channel4_IRQHandler
+                0x080003e8                USART3_IRQHandler
+                0x080003e8                DMA1_Channel7_IRQHandler
+                0x080003e8                CAN1_RX1_IRQHandler
+                0x080003e8                UART5_IRQHandler
+                0x080003e8                ADC3_IRQHandler
+                0x080003e8                TIM4_IRQHandler
+                0x080003e8                DMA2_Channel1_IRQHandler
+                0x080003e8                I2C1_EV_IRQHandler
+                0x080003e8                DMA1_Channel6_IRQHandler
+                0x080003e8                UART4_IRQHandler
+                0x080003e8                DMA2_Channel4_IRQHandler
+                0x080003e8                TIM3_IRQHandler
+                0x080003e8                RCC_IRQHandler
+                0x080003e8                DMA1_Channel1_IRQHandler
+                0x080003e8                Default_Handler
+                0x080003e8                USBWakeUp_RMP_IRQHandler
+                0x080003e8                EXTI15_10_IRQHandler
+                0x080003e8                TIM7_IRQHandler
+                0x080003e8                EXTI9_5_IRQHandler
+                0x080003e8                TAMPER_STAMP_IRQHandler
+                0x080003e8                RTC_WKUP_IRQHandler
+                0x080003e8                SPI2_IRQHandler
+                0x080003e8                DMA2_Channel5_IRQHandler
+                0x080003e8                DMA1_Channel5_IRQHandler
+                0x080003e8                USB_LP_IRQHandler
+                0x080003e8                EXTI4_IRQHandler
+                0x080003e8                USB_LP_CAN1_RX0_IRQHandler
+                0x080003e8                TIM1_TRG_COM_TIM17_IRQHandler
+                0x080003e8                USB_HP_CAN1_TX_IRQHandler
+                0x080003e8                DMA1_Channel3_IRQHandler
+                0x080003e8                ADC4_IRQHandler
+                0x080003e8                WWDG_IRQHandler
+                0x080003e8                TIM2_IRQHandler
+                0x080003e8                COMP7_IRQHandler
+                0x080003e8                COMP1_2_3_IRQHandler
+                0x080003e8                EXTI1_IRQHandler
+                0x080003e8                USART2_IRQHandler
+                0x080003e8                COMP4_5_6_IRQHandler
+                0x080003e8                I2C2_ER_IRQHandler
+                0x080003e8                DMA1_Channel2_IRQHandler
+                0x080003e8                TIM8_BRK_IRQHandler
+                0x080003e8                CAN1_SCE_IRQHandler
+                0x080003e8                FLASH_IRQHandler
+                0x080003e8                USART1_IRQHandler
+                0x080003e8                SPI3_IRQHandler
+                0x080003e8                I2C1_ER_IRQHandler
+                0x080003e8                USBWakeUp_IRQHandler
+                0x080003e8                DMA2_Channel3_IRQHandler
+                0x080003e8                TIM1_BRK_TIM15_IRQHandler
+
+.inits          0x080003ec       0x28
+                0x080003ec                __data_regions_array_start = .
+                0x080003ec        0x4 LONG 0x8001674 LOADADDR (.data)
+                0x080003f0        0x4 LONG 0x20000000 ADDR (.data)
+                0x080003f4        0x4 LONG 0x20000088 (ADDR (.data) + SIZEOF (.data))
+                0x080003f8        0x4 LONG 0x8001674 LOADADDR (.data_CCMRAM)
+                0x080003fc        0x4 LONG 0x10000000 ADDR (.data_CCMRAM)
+                0x08000400        0x4 LONG 0x10000000 (ADDR (.data_CCMRAM) + SIZEOF (.data_CCMRAM))
+                0x08000404                __data_regions_array_end = .
+                0x08000404                __bss_regions_array_start = .
+                0x08000404        0x4 LONG 0x20000088 ADDR (.bss)
+                0x08000408        0x4 LONG 0x20000128 (ADDR (.bss) + SIZEOF (.bss))
+                0x0800040c        0x4 LONG 0x10000000 ADDR (.bss_CCMRAM)
+                0x08000410        0x4 LONG 0x10000000 (ADDR (.bss_CCMRAM) + SIZEOF (.bss_CCMRAM))
+                0x08000414                __bss_regions_array_end = .
+ *(.init)
+ *(.fini)
+                0x08000414                . = ALIGN (0x4)
+                0x08000414                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array_sysinit .preinit_array_sysinit.*)
+ *(.preinit_array_platform .preinit_array_platform.*)
+ *(.preinit_array .preinit_array.*)
+                0x08000414                PROVIDE (__preinit_array_end, .)
+                0x08000414                . = ALIGN (0x4)
+                0x08000414                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ *(.init_array)
+                0x08000414                PROVIDE (__init_array_end, .)
+                0x08000414                . = ALIGN (0x4)
+                0x08000414                PROVIDE (__fini_array_start, .)
+ *(SORT(.fini_array.*))
+ *(.fini_array)
+                0x08000414                PROVIDE (__fini_array_end, .)
+
+.flashtext
+ *(.flashtext .flashtext.*)
+
+.text           0x08000414     0x125d
+ *(.text .text.*)
+ .text.GPIO_Init
+                0x08000414      0x114 ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+                0x08000414                GPIO_Init
+ .text.GPIO_SetBits
+                0x08000528       0x54 ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+                0x08000528                GPIO_SetBits
+ .text.GPIO_ResetBits
+                0x0800057c       0x54 ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+                0x0800057c                GPIO_ResetBits
+ .text.RCC_AHBPeriphClockCmd
+                0x080005d0       0x4c ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+                0x080005d0                RCC_AHBPeriphClockCmd
+ .text._exit    0x0800061c        0x4 ./system/src/newlib/_exit.o
+                0x0800061c                _exit
+ .text.abort    0x08000620       0x14 ./system/src/newlib/_exit.o
+                0x08000620                abort
+ .text._sbrk    0x08000634       0x44 ./system/src/newlib/_sbrk.o
+                0x08000634                _sbrk
+ .text.__initialize_args
+                0x08000678       0x10 ./system/src/newlib/_syscalls.o
+                0x08000678                __initialize_args
+ .text.assert_failed
+                0x08000688       0x18 ./system/src/newlib/assert.o
+                0x08000688                assert_failed
+ .text.trace_printf
+                0x080006a0       0x34 ./system/src/diag/Trace.o
+                0x080006a0                trace_printf
+ .text.trace_puts
+                0x080006d4       0x20 ./system/src/diag/Trace.o
+                0x080006d4                trace_puts
+ .text._trace_write_semihosting_debug
+                0x080006f4       0x64 ./system/src/diag/trace_impl.o
+ .text.trace_write
+                0x08000758        0x8 ./system/src/diag/trace_impl.o
+                0x08000758                trace_write
+ .text.__initialize_hardware_early
+                0x08000760        0x8 ./system/src/cortexm/_initialize_hardware.o
+                0x08000760                __initialize_hardware_early
+ .text.__initialize_hardware
+                0x08000768        0x8 ./system/src/cortexm/_initialize_hardware.o
+                0x08000768                __initialize_hardware
+ .text.dumpExceptionStack
+                0x08000770       0xf0 ./system/src/cortexm/exception_handlers.o
+                0x08000770                dumpExceptionStack
+ .text.isSemihosting
+                0x08000860       0x20 ./system/src/cortexm/exception_handlers.o
+                0x08000860                isSemihosting
+ .text.SetSysClock
+                0x08000880       0xb0 ./system/src/cmsis/system_stm32f30x.o
+ .text.SystemInit
+                0x08000930       0x64 ./system/src/cmsis/system_stm32f30x.o
+                0x08000930                SystemInit
+ .text.SystemCoreClockUpdate
+                0x08000994       0x8c ./system/src/cmsis/system_stm32f30x.o
+                0x08000994                SystemCoreClockUpdate
+ .text.blink_led_init
+                0x08000a20       0x44 ./src/BlinkLed.o
+                0x08000a20                blink_led_init
+ .text.timer_start
+                0x08000a64       0x3c ./src/Timer.o
+                0x08000a64                timer_start
+ .text.timer_sleep
+                0x08000aa0       0x14 ./src/Timer.o
+                0x08000aa0                timer_sleep
+ .text.timer_tick
+                0x08000ab4       0x14 ./src/Timer.o
+                0x08000ab4                timer_tick
+ .text.SysTick_Handler
+                0x08000ac8        0x8 ./src/Timer.o
+                0x08000ac8                SysTick_Handler
+ .text.main     0x08000ad0       0x68 ./src/main.o
+                0x08000ad0                main
+ .text.__errno  0x08000b38        0xc /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-errno.o)
+                0x08000b38                __errno
+ .text.strlen   0x08000b44       0x10 /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-strlen.o)
+                0x08000b44                strlen
+ .text._vsnprintf_r
+                0x08000b54       0x52 /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-vsnprintf.o)
+                0x08000b54                _vsnprintf_r
+                0x08000b54                _vsniprintf_r
+ *fill*         0x08000ba6        0x2 
+ .text.vsnprintf
+                0x08000ba8       0x20 /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-vsnprintf.o)
+                0x08000ba8                vsnprintf
+                0x08000ba8                vsniprintf
+ .text.__ssputs_r
+                0x08000bc8       0xb2 /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-nano-svfprintf.o)
+                0x08000bc8                __ssputs_r
+ *fill*         0x08000c7a        0x2 
+ .text._svfprintf_r
+                0x08000c7c      0x1e4 /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-nano-svfprintf.o)
+                0x08000c7c                _svfprintf_r
+                0x08000c7c                _svfiprintf_r
+ .text._printf_common
+                0x08000e60       0xea /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-nano-vfprintf_i.o)
+                0x08000e60                _printf_common
+ *fill*         0x08000f4a        0x2 
+ .text._printf_i
+                0x08000f4c      0x240 /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-nano-vfprintf_i.o)
+                0x08000f4c                _printf_i
+ .text.memchr   0x0800118c       0x1e /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-memchr.o)
+                0x0800118c                memchr
+ .text.memcpy   0x080011aa       0x16 /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-memcpy.o)
+                0x080011aa                memcpy
+ .text.memmove  0x080011c0       0x36 /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-memmove.o)
+                0x080011c0                memmove
+ *fill*         0x080011f6        0x2 
+ .text._free_r  0x080011f8       0x88 /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-nano-freer.o)
+                0x080011f8                _free_r
+ .text._malloc_r
+                0x08001280       0xac /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-nano-mallocr.o)
+                0x08001280                _malloc_r
+ .text._realloc_r
+                0x0800132c       0x4c /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-nano-reallocr.o)
+                0x0800132c                _realloc_r
+ .text._sbrk_r  0x08001378       0x20 /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-sbrkr.o)
+                0x08001378                _sbrk_r
+ .text._malloc_usable_size_r
+                0x08001398       0x14 /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-nano-msizer.o)
+                0x08001398                _malloc_usable_size_r
+ *(.rodata .rodata.* .constdata .constdata.*)
+ .rodata.str1.4
+                0x080013ac       0x31 ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+ *fill*         0x080013dd        0x3 
+ .rodata.str1.4
+                0x080013e0       0x30 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .rodata.str1.4
+                0x08001410       0x14 ./system/src/newlib/_exit.o
+ .rodata.str1.4
+                0x08001424       0x6b ./system/src/newlib/assert.o
+                                 0x6f (size before relaxing)
+ *fill*         0x0800148f        0x1 
+ .rodata.str1.4
+                0x08001490       0x29 ./system/src/diag/Trace.o
+                                 0x2d (size before relaxing)
+ *fill*         0x080014b9        0x3 
+ .rodata.str1.4
+                0x080014bc      0x146 ./system/src/cortexm/exception_handlers.o
+ *fill*         0x08001602        0x2 
+ .rodata.str1.4
+                0x08001604       0x38 ./src/main.o
+                                 0x37 (size before relaxing)
+ .rodata.str1.1
+                0x0800163c        0x2 /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-impure.o)
+ .rodata.str1.1
+                0x0800163e       0x11 /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-nano-svfprintf.o)
+ .rodata.str1.1
+                0x0800164f       0x22 /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-nano-vfprintf_i.o)
+ *(vtable)
+ *(.eh_frame*)
+ *(.glue_7)
+ .glue_7        0x00000000        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x00000000        0x0 linker stubs
+
+.vfp11_veneer   0x08001674        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x08001674        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x08001674        0x0
+ .iplt          0x00000000        0x0 ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+
+.rel.dyn        0x08001674        0x0
+ .rel.iplt      0x00000000        0x0 ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x08001674                . = ALIGN (0x4)
+                0x08001674                __exidx_start = .
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x08001674                __exidx_end = .
+                0x08001674                . = ALIGN (0x4)
+                0x08001674                _etext = .
+                0x08001674                __etext = .
+
+.data_CCMRAM    0x10000000        0x0 load address 0x08001674
+ FILL mask 0xff
+ *(.data.CCMRAM .data.CCMRAM.*)
+                0x10000000                . = ALIGN (0x4)
+                0x08001674                _sidata = LOADADDR (.data)
+
+.data           0x20000000       0x88 load address 0x08001674
+ FILL mask 0xff
+                0x20000000                _sdata = .
+                0x20000000                __data_start__ = .
+ *(.data_begin .data_begin.*)
+ .data_begin    0x20000000        0x4 ./system/src/newlib/_startup.o
+ *(.data .data.*)
+ .data.argv.4157
+                0x20000004        0x8 ./system/src/newlib/_syscalls.o
+ .data.AHBPrescTable
+                0x2000000c       0x10 ./system/src/cmsis/system_stm32f30x.o
+                0x2000000c                AHBPrescTable
+ .data.SystemCoreClock
+                0x2000001c        0x4 ./system/src/cmsis/system_stm32f30x.o
+                0x2000001c                SystemCoreClock
+ .data.impure_data
+                0x20000020       0x60 /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x20000080        0x4 /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-impure.o)
+                0x20000080                _impure_ptr
+ *(.data_end .data_end.*)
+ .data_end      0x20000084        0x4 ./system/src/newlib/_startup.o
+                0x20000088                . = ALIGN (0x4)
+                0x20000088                _edata = .
+                0x20000088                __data_end__ = .
+
+.igot.plt       0x20000088        0x0 load address 0x080016fc
+ .igot.plt      0x00000000        0x0 ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+
+.bss_CCMRAM     0x10000000        0x0
+ *(.bss.CCMRAM .bss.CCMRAM.*)
+
+.bss            0x20000088       0xa0
+                0x20000088                __bss_start__ = .
+                0x20000088                _sbss = .
+ *(.bss_begin .bss_begin.*)
+ .bss_begin     0x20000088        0x4 ./system/src/newlib/_startup.o
+ *(.bss .bss.*)
+ .bss.current_heap_end.3862
+                0x2000008c        0x4 ./system/src/newlib/_sbrk.o
+ .bss.name.4156
+                0x20000090        0x1 ./system/src/newlib/_syscalls.o
+ *fill*         0x20000091        0x3 
+ .bss.buf.4998  0x20000094       0x80 ./system/src/diag/Trace.o
+ .bss.__malloc_sbrk_start
+                0x20000114        0x4 /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-nano-mallocr.o)
+                0x20000114                __malloc_sbrk_start
+ .bss.__malloc_free_list
+                0x20000118        0x4 /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-nano-mallocr.o)
+                0x20000118                __malloc_free_list
+ *(COMMON)
+ COMMON         0x2000011c        0x4 ./system/src/newlib/_syscalls.o
+                0x2000011c                errno
+ COMMON         0x20000120        0x4 ./src/Timer.o
+                0x20000120                timer_delayCount
+ *(.bss_end .bss_end.*)
+ .bss_end       0x20000124        0x4 ./system/src/newlib/_startup.o
+                0x20000128                . = ALIGN (0x4)
+                0x20000128                __bss_end__ = .
+                0x20000128                _ebss = .
+
+.noinit_CCMRAM
+ *(.noinit.CCMRAM .noinit.CCMRAM.*)
+
+.noinit         0x20000128        0x0
+                0x20000128                _noinit = .
+ *(.noinit .noinit.*)
+                0x20000128                . = ALIGN (0x4)
+                0x20000128                _end_noinit = .
+                0x20000128                PROVIDE (end, _end_noinit)
+                0x20000128                PROVIDE (_end, _end_noinit)
+                0x20000128                PROVIDE (__end, _end_noinit)
+                0x20000128                PROVIDE (__end__, _end_noinit)
+
+._check_stack   0x20000128      0x100
+                0x20000228                . = (. + _Minimum_Stack_Size)
+ *fill*         0x20000128      0x100 
+
+.b1text
+ *(.b1text)
+ *(.b1rodata)
+ *(.b1rodata.*)
+
+.eb0text
+ *(.eb0text)
+ *(.eb0rodata)
+ *(.eb0rodata.*)
+
+.eb1text
+ *(.eb1text)
+ *(.eb1rodata)
+ *(.eb1rodata.*)
+
+.eb2text
+ *(.eb2text)
+ *(.eb2rodata)
+ *(.eb2rodata.*)
+
+.eb3text
+ *(.eb3text)
+ *(.eb3rodata)
+ *(.eb3rodata.*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x70
+ *(.comment)
+ .comment       0x00000000       0x70 ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+                                 0x71 (size before relaxing)
+ .comment       0x00000000       0x71 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .comment       0x00000000       0x71 ./system/src/newlib/_exit.o
+ .comment       0x00000000       0x71 ./system/src/newlib/_sbrk.o
+ .comment       0x00000000       0x71 ./system/src/newlib/_startup.o
+ .comment       0x00000000       0x71 ./system/src/newlib/_syscalls.o
+ .comment       0x00000000       0x71 ./system/src/newlib/assert.o
+ .comment       0x00000000       0x71 ./system/src/diag/Trace.o
+ .comment       0x00000000       0x71 ./system/src/diag/trace_impl.o
+ .comment       0x00000000       0x71 ./system/src/cortexm/_initialize_hardware.o
+ .comment       0x00000000       0x71 ./system/src/cortexm/exception_handlers.o
+ .comment       0x00000000       0x71 ./system/src/cmsis/system_stm32f30x.o
+ .comment       0x00000000       0x71 ./system/src/cmsis/vectors_stm32f30x.o
+ .comment       0x00000000       0x71 ./src/BlinkLed.o
+ .comment       0x00000000       0x71 ./src/Timer.o
+ .comment       0x00000000       0x71 ./src/main.o
+
+.ARM.attributes
+                0x00000000       0x33
+ .ARM.attributes
+                0x00000000       0x33 ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+ .ARM.attributes
+                0x00000033       0x33 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .ARM.attributes
+                0x00000066       0x33 ./system/src/newlib/_exit.o
+ .ARM.attributes
+                0x00000099       0x33 ./system/src/newlib/_sbrk.o
+ .ARM.attributes
+                0x000000cc       0x33 ./system/src/newlib/_startup.o
+ .ARM.attributes
+                0x000000ff       0x33 ./system/src/newlib/_syscalls.o
+ .ARM.attributes
+                0x00000132       0x33 ./system/src/newlib/assert.o
+ .ARM.attributes
+                0x00000165       0x33 ./system/src/diag/Trace.o
+ .ARM.attributes
+                0x00000198       0x33 ./system/src/diag/trace_impl.o
+ .ARM.attributes
+                0x000001cb       0x33 ./system/src/cortexm/_initialize_hardware.o
+ .ARM.attributes
+                0x000001fe       0x33 ./system/src/cortexm/exception_handlers.o
+ .ARM.attributes
+                0x00000231       0x33 ./system/src/cmsis/system_stm32f30x.o
+ .ARM.attributes
+                0x00000264       0x33 ./system/src/cmsis/vectors_stm32f30x.o
+ .ARM.attributes
+                0x00000297       0x33 ./src/BlinkLed.o
+ .ARM.attributes
+                0x000002ca       0x33 ./src/Timer.o
+ .ARM.attributes
+                0x000002fd       0x33 ./src/main.o
+ .ARM.attributes
+                0x00000330       0x2e /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-errno.o)
+ .ARM.attributes
+                0x0000035e       0x2e /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x0000038c       0x2e /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-strlen.o)
+ .ARM.attributes
+                0x000003ba       0x2e /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-vsnprintf.o)
+ .ARM.attributes
+                0x000003e8       0x2e /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-nano-svfprintf.o)
+ .ARM.attributes
+                0x00000416       0x2e /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-nano-vfprintf_i.o)
+ .ARM.attributes
+                0x00000444       0x2e /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-memchr.o)
+ .ARM.attributes
+                0x00000472       0x2e /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-memcpy.o)
+ .ARM.attributes
+                0x000004a0       0x2e /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-memmove.o)
+ .ARM.attributes
+                0x000004ce       0x2e /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-nano-freer.o)
+ .ARM.attributes
+                0x000004fc       0x2e /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-nano-mallocr.o)
+ .ARM.attributes
+                0x0000052a       0x2e /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-nano-reallocr.o)
+ .ARM.attributes
+                0x00000558       0x2e /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x00000586       0x2e /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-nano-msizer.o)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x498
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x80 ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+ .debug_aranges
+                0x00000080      0x150 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .debug_aranges
+                0x000001d0       0x28 ./system/src/newlib/_exit.o
+ .debug_aranges
+                0x000001f8       0x20 ./system/src/newlib/_sbrk.o
+ .debug_aranges
+                0x00000218       0x40 ./system/src/newlib/_startup.o
+ .debug_aranges
+                0x00000258       0x30 ./system/src/newlib/_syscalls.o
+ .debug_aranges
+                0x00000288       0x28 ./system/src/newlib/assert.o
+ .debug_aranges
+                0x000002b0       0x38 ./system/src/diag/Trace.o
+ .debug_aranges
+                0x000002e8       0x30 ./system/src/diag/trace_impl.o
+ .debug_aranges
+                0x00000318       0x28 ./system/src/cortexm/_initialize_hardware.o
+ .debug_aranges
+                0x00000340       0x90 ./system/src/cortexm/exception_handlers.o
+ .debug_aranges
+                0x000003d0       0x30 ./system/src/cmsis/system_stm32f30x.o
+ .debug_aranges
+                0x00000400       0x20 ./system/src/cmsis/vectors_stm32f30x.o
+ .debug_aranges
+                0x00000420       0x20 ./src/BlinkLed.o
+ .debug_aranges
+                0x00000440       0x38 ./src/Timer.o
+ .debug_aranges
+                0x00000478       0x20 ./src/main.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x4702
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0xa40 ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+ .debug_info    0x00000a40      0xf6a ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .debug_info    0x000019aa      0x100 ./system/src/newlib/_exit.o
+ .debug_info    0x00001aaa      0x125 ./system/src/newlib/_sbrk.o
+ .debug_info    0x00001bcf      0x50f ./system/src/newlib/_startup.o
+ .debug_info    0x000020de      0x1a9 ./system/src/newlib/_syscalls.o
+ .debug_info    0x00002287      0x1b0 ./system/src/newlib/assert.o
+ .debug_info    0x00002437      0x32b ./system/src/diag/Trace.o
+ .debug_info    0x00002762      0x304 ./system/src/diag/trace_impl.o
+ .debug_info    0x00002a66       0xdf ./system/src/cortexm/_initialize_hardware.o
+ .debug_info    0x00002b45      0x8f2 ./system/src/cortexm/exception_handlers.o
+ .debug_info    0x00003437      0x486 ./system/src/cmsis/system_stm32f30x.o
+ .debug_info    0x000038bd       0xd1 ./system/src/cmsis/vectors_stm32f30x.o
+ .debug_info    0x0000398e      0x375 ./src/BlinkLed.o
+ .debug_info    0x00003d03      0x6ae ./src/Timer.o
+ .debug_info    0x000043b1      0x351 ./src/main.o
+
+.debug_abbrev   0x00000000     0x15c9
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x1ec ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+ .debug_abbrev  0x000001ec      0x228 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .debug_abbrev  0x00000414       0xa4 ./system/src/newlib/_exit.o
+ .debug_abbrev  0x000004b8       0xbb ./system/src/newlib/_sbrk.o
+ .debug_abbrev  0x00000573      0x211 ./system/src/newlib/_startup.o
+ .debug_abbrev  0x00000784       0xe7 ./system/src/newlib/_syscalls.o
+ .debug_abbrev  0x0000086b       0xc9 ./system/src/newlib/assert.o
+ .debug_abbrev  0x00000934      0x178 ./system/src/diag/Trace.o
+ .debug_abbrev  0x00000aac      0x1bd ./system/src/diag/trace_impl.o
+ .debug_abbrev  0x00000c69       0x88 ./system/src/cortexm/_initialize_hardware.o
+ .debug_abbrev  0x00000cf1      0x23e ./system/src/cortexm/exception_handlers.o
+ .debug_abbrev  0x00000f2f      0x13d ./system/src/cmsis/system_stm32f30x.o
+ .debug_abbrev  0x0000106c       0x9d ./system/src/cmsis/vectors_stm32f30x.o
+ .debug_abbrev  0x00001109      0x16d ./src/BlinkLed.o
+ .debug_abbrev  0x00001276      0x1b5 ./src/Timer.o
+ .debug_abbrev  0x0000142b      0x19e ./src/main.o
+
+.debug_line     0x00000000     0x4414
+ *(.debug_line)
+ .debug_line    0x00000000      0x72f ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+ .debug_line    0x0000072f      0xa45 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .debug_line    0x00001174      0x2ba ./system/src/newlib/_exit.o
+ .debug_line    0x0000142e      0x25d ./system/src/newlib/_sbrk.o
+ .debug_line    0x0000168b      0x32d ./system/src/newlib/_startup.o
+ .debug_line    0x000019b8      0x391 ./system/src/newlib/_syscalls.o
+ .debug_line    0x00001d49      0x2f1 ./system/src/newlib/assert.o
+ .debug_line    0x0000203a      0x315 ./system/src/diag/Trace.o
+ .debug_line    0x0000234f      0x59b ./system/src/diag/trace_impl.o
+ .debug_line    0x000028ea      0x36c ./system/src/cortexm/_initialize_hardware.o
+ .debug_line    0x00002c56      0x655 ./system/src/cortexm/exception_handlers.o
+ .debug_line    0x000032ab      0x3ad ./system/src/cmsis/system_stm32f30x.o
+ .debug_line    0x00003658      0x103 ./system/src/cmsis/vectors_stm32f30x.o
+ .debug_line    0x0000375b      0x34c ./src/BlinkLed.o
+ .debug_line    0x00003aa7      0x3c0 ./src/Timer.o
+ .debug_line    0x00003e67      0x5ad ./src/main.o
+
+.debug_frame    0x00000000      0xd14
+ *(.debug_frame)
+ .debug_frame   0x00000000      0x164 ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+ .debug_frame   0x00000164      0x3cc ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .debug_frame   0x00000530       0x38 ./system/src/newlib/_exit.o
+ .debug_frame   0x00000568       0x28 ./system/src/newlib/_sbrk.o
+ .debug_frame   0x00000590       0x7c ./system/src/newlib/_startup.o
+ .debug_frame   0x0000060c       0x50 ./system/src/newlib/_syscalls.o
+ .debug_frame   0x0000065c       0x40 ./system/src/newlib/assert.o
+ .debug_frame   0x0000069c       0x94 ./system/src/diag/Trace.o
+ .debug_frame   0x00000730       0x60 ./system/src/diag/trace_impl.o
+ .debug_frame   0x00000790       0x40 ./system/src/cortexm/_initialize_hardware.o
+ .debug_frame   0x000007d0      0x158 ./system/src/cortexm/exception_handlers.o
+ .debug_frame   0x00000928       0x50 ./system/src/cmsis/system_stm32f30x.o
+ .debug_frame   0x00000978       0x20 ./system/src/cmsis/vectors_stm32f30x.o
+ .debug_frame   0x00000998       0x30 ./src/BlinkLed.o
+ .debug_frame   0x000009c8       0x58 ./src/Timer.o
+ .debug_frame   0x00000a20       0x28 ./src/main.o
+ .debug_frame   0x00000a48       0x20 /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-errno.o)
+ .debug_frame   0x00000a68       0x20 /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-strlen.o)
+ .debug_frame   0x00000a88       0x50 /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-vsnprintf.o)
+ .debug_frame   0x00000ad8       0x8c /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-nano-svfprintf.o)
+ .debug_frame   0x00000b64       0x58 /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-nano-vfprintf_i.o)
+ .debug_frame   0x00000bbc       0x28 /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-memchr.o)
+ .debug_frame   0x00000be4       0x28 /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-memcpy.o)
+ .debug_frame   0x00000c0c       0x28 /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-memmove.o)
+ .debug_frame   0x00000c34       0x2c /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-nano-freer.o)
+ .debug_frame   0x00000c60       0x2c /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-nano-mallocr.o)
+ .debug_frame   0x00000c8c       0x3c /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-nano-reallocr.o)
+ .debug_frame   0x00000cc8       0x2c /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-sbrkr.o)
+ .debug_frame   0x00000cf4       0x20 /home/kedar/ARM_intern/gcc-arm-none-eabi-4_9-2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/libg_nano.a(lib_a-nano-msizer.o)
+
+.debug_str      0x00000000    0x5a8c4
+ *(.debug_str)
+ .debug_str     0x00000000    0x5353c ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+                              0x53702 (size before relaxing)
+ .debug_str     0x0005353c      0xa62 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+                              0x53e90 (size before relaxing)
+ .debug_str     0x00053f9e     0x37e6 ./system/src/newlib/_exit.o
+                               0x5e70 (size before relaxing)
+ .debug_str     0x00057784      0x4de ./system/src/newlib/_sbrk.o
+                               0x45e2 (size before relaxing)
+ .debug_str     0x00057c62      0x2d7 ./system/src/newlib/_startup.o
+                               0x4220 (size before relaxing)
+ .debug_str     0x00057f39     0x1174 ./system/src/newlib/_syscalls.o
+                               0x65dc (size before relaxing)
+ .debug_str     0x000590ad       0xdf ./system/src/newlib/assert.o
+                               0x6979 (size before relaxing)
+ .debug_str     0x0005918c      0x9bc ./system/src/diag/Trace.o
+                               0x6791 (size before relaxing)
+ .debug_str     0x00059b48      0x378 ./system/src/diag/trace_impl.o
+                              0x562bc (size before relaxing)
+ .debug_str     0x00059ec0       0x4e ./system/src/cortexm/_initialize_hardware.o
+                              0x5341f (size before relaxing)
+ .debug_str     0x00059f0e      0x1fc ./system/src/cortexm/exception_handlers.o
+                              0x5705a (size before relaxing)
+ .debug_str     0x0005a10a       0x7b ./system/src/cmsis/system_stm32f30x.o
+                              0x5353f (size before relaxing)
+ .debug_str     0x0005a185       0x57 ./system/src/cmsis/vectors_stm32f30x.o
+                               0x3074 (size before relaxing)
+ .debug_str     0x0005a1dc      0x12f ./src/BlinkLed.o
+                              0x536b0 (size before relaxing)
+ .debug_str     0x0005a30b      0x534 ./src/Timer.o
+                              0x539c6 (size before relaxing)
+ .debug_str     0x0005a83f       0x85 ./src/main.o
+                              0x576e9 (size before relaxing)
+
+.debug_loc      0x00000000     0x1d8e
+ *(.debug_loc)
+ .debug_loc     0x00000000      0x4c0 ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+ .debug_loc     0x000004c0      0xcb6 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .debug_loc     0x00001176       0x82 ./system/src/newlib/_sbrk.o
+ .debug_loc     0x000011f8      0x36e ./system/src/newlib/_startup.o
+ .debug_loc     0x00001566       0x63 ./system/src/newlib/_syscalls.o
+ .debug_loc     0x000015c9       0xec ./system/src/newlib/assert.o
+ .debug_loc     0x000016b5       0xf7 ./system/src/diag/Trace.o
+ .debug_loc     0x000017ac      0x17c ./system/src/diag/trace_impl.o
+ .debug_loc     0x00001928      0x2a8 ./system/src/cortexm/exception_handlers.o
+ .debug_loc     0x00001bd0      0x104 ./system/src/cmsis/system_stm32f30x.o
+ .debug_loc     0x00001cd4       0x59 ./src/Timer.o
+ .debug_loc     0x00001d2d       0x61 ./src/main.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+OUTPUT(stm32_sample_project.elf elf32-littlearm)
+
+.debug_ranges   0x00000000      0x3c8
+ .debug_ranges  0x00000000       0x70 ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+ .debug_ranges  0x00000070      0x140 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .debug_ranges  0x000001b0       0x18 ./system/src/newlib/_exit.o
+ .debug_ranges  0x000001c8       0x10 ./system/src/newlib/_sbrk.o
+ .debug_ranges  0x000001d8       0x30 ./system/src/newlib/_startup.o
+ .debug_ranges  0x00000208       0x20 ./system/src/newlib/_syscalls.o
+ .debug_ranges  0x00000228       0x18 ./system/src/newlib/assert.o
+ .debug_ranges  0x00000240       0x28 ./system/src/diag/Trace.o
+ .debug_ranges  0x00000268       0x38 ./system/src/diag/trace_impl.o
+ .debug_ranges  0x000002a0       0x18 ./system/src/cortexm/_initialize_hardware.o
+ .debug_ranges  0x000002b8       0x98 ./system/src/cortexm/exception_handlers.o
+ .debug_ranges  0x00000350       0x20 ./system/src/cmsis/system_stm32f30x.o
+ .debug_ranges  0x00000370       0x10 ./system/src/cmsis/vectors_stm32f30x.o
+ .debug_ranges  0x00000380       0x10 ./src/BlinkLed.o
+ .debug_ranges  0x00000390       0x28 ./src/Timer.o
+ .debug_ranges  0x000003b8       0x10 ./src/main.o
+
+.debug_macro    0x00000000    0x105d9
+ .debug_macro   0x00000000      0x15c ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+ .debug_macro   0x0000015c      0x898 ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+ .debug_macro   0x000009f4       0x6e ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+ .debug_macro   0x00000a62       0x3b ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+ .debug_macro   0x00000a9d      0x34e ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+ .debug_macro   0x00000deb       0x2d ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+ .debug_macro   0x00000e18       0x26 ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+ .debug_macro   0x00000e3e      0xd39 ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+ .debug_macro   0x00001b77     0x769b ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+ .debug_macro   0x00009212      0x5a6 ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+ .debug_macro   0x000097b8      0x3cf ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+ .debug_macro   0x00009b87       0x46 ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+ .debug_macro   0x00009bcd      0x231 ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+ .debug_macro   0x00009dfe      0x196 ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+ .debug_macro   0x00009f94       0x8e ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+ .debug_macro   0x0000a022      0x3a9 ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+ .debug_macro   0x0000a3cb      0x116 ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+ .debug_macro   0x0000a4e1      0x1e4 ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+ .debug_macro   0x0000a6c5      0x1df ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+ .debug_macro   0x0000a8a4      0x29a ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+ .debug_macro   0x0000ab3e       0x70 ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+ .debug_macro   0x0000abae      0x10c ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+ .debug_macro   0x0000acba       0xb8 ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+ .debug_macro   0x0000ad72      0x5c6 ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+ .debug_macro   0x0000b338      0x551 ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+ .debug_macro   0x0000b889      0x3ac ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+ .debug_macro   0x0000bc35      0x8d8 ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+ .debug_macro   0x0000c50d      0x364 ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+ .debug_macro   0x0000c871       0x34 ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+ .debug_macro   0x0000c8a5       0x89 ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+ .debug_macro   0x0000c92e       0x35 ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+ .debug_macro   0x0000c963      0x1b0 ./system/src/stm32f3-stdperiph/stm32f30x_gpio.o
+ .debug_macro   0x0000cb13      0x1f9 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .debug_macro   0x0000cd0c      0x1b6 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .debug_macro   0x0000cec2      0x5c0 ./system/src/stm32f3-stdperiph/stm32f30x_rcc.o
+ .debug_macro   0x0000d482      0x131 ./system/src/newlib/_exit.o
+ .debug_macro   0x0000d5b3       0x9c ./system/src/newlib/_exit.o
+ .debug_macro   0x0000d64f      0x10e ./system/src/newlib/_exit.o
+ .debug_macro   0x0000d75d       0x86 ./system/src/newlib/_exit.o
+ .debug_macro   0x0000d7e3       0x43 ./system/src/newlib/_exit.o
+ .debug_macro   0x0000d826      0x27a ./system/src/newlib/_exit.o
+ .debug_macro   0x0000daa0       0x35 ./system/src/newlib/_exit.o
+ .debug_macro   0x0000dad5       0xda ./system/src/newlib/_sbrk.o
+ .debug_macro   0x0000dbaf       0x19 ./system/src/newlib/_sbrk.o
+ .debug_macro   0x0000dbc8      0x16d ./system/src/newlib/_sbrk.o
+ .debug_macro   0x0000dd35       0x10 ./system/src/newlib/_sbrk.o
+ .debug_macro   0x0000dd45      0x23b ./system/src/newlib/_sbrk.o
+ .debug_macro   0x0000df80       0xe4 ./system/src/newlib/_startup.o
+ .debug_macro   0x0000e064      0x89e ./system/src/newlib/_startup.o
+ .debug_macro   0x0000e902      0x1ad ./system/src/newlib/_syscalls.o
+ .debug_macro   0x0000eaaf       0x1c ./system/src/newlib/_syscalls.o
+ .debug_macro   0x0000eacb       0x10 ./system/src/newlib/_syscalls.o
+ .debug_macro   0x0000eadb       0x10 ./system/src/newlib/_syscalls.o
+ .debug_macro   0x0000eaeb       0x10 ./system/src/newlib/_syscalls.o
+ .debug_macro   0x0000eafb       0x10 ./system/src/newlib/_syscalls.o
+ .debug_macro   0x0000eb0b       0x35 ./system/src/newlib/_syscalls.o
+ .debug_macro   0x0000eb40      0x122 ./system/src/newlib/_syscalls.o
+ .debug_macro   0x0000ec62       0x2e ./system/src/newlib/_syscalls.o
+ .debug_macro   0x0000ec90       0x82 ./system/src/newlib/_syscalls.o
+ .debug_macro   0x0000ed12       0x2b ./system/src/newlib/_syscalls.o
+ .debug_macro   0x0000ed3d      0x118 ./system/src/newlib/_syscalls.o
+ .debug_macro   0x0000ee55      0x13e ./system/src/newlib/_syscalls.o
+ .debug_macro   0x0000ef93       0x16 ./system/src/newlib/_syscalls.o
+ .debug_macro   0x0000efa9      0x14d ./system/src/newlib/assert.o
+ .debug_macro   0x0000f0f6       0x1c ./system/src/newlib/assert.o
+ .debug_macro   0x0000f112      0x15e ./system/src/diag/Trace.o
+ .debug_macro   0x0000f270       0x16 ./system/src/diag/Trace.o
+ .debug_macro   0x0000f286       0x97 ./system/src/diag/Trace.o
+ .debug_macro   0x0000f31d       0xf6 ./system/src/diag/Trace.o
+ .debug_macro   0x0000f413       0x10 ./system/src/diag/Trace.o
+ .debug_macro   0x0000f423       0x16 ./system/src/diag/Trace.o
+ .debug_macro   0x0000f439      0x197 ./system/src/diag/Trace.o
+ .debug_macro   0x0000f5d0       0x52 ./system/src/diag/Trace.o
+ .debug_macro   0x0000f622       0x16 ./system/src/diag/Trace.o
+ .debug_macro   0x0000f638      0x24f ./system/src/diag/trace_impl.o
+ .debug_macro   0x0000f887       0x10 ./system/src/diag/trace_impl.o
+ .debug_macro   0x0000f897       0xc8 ./system/src/diag/trace_impl.o
+ .debug_macro   0x0000f95f       0xbe ./system/src/diag/trace_impl.o
+ .debug_macro   0x0000fa1d       0x22 ./system/src/diag/trace_impl.o
+ .debug_macro   0x0000fa3f      0x15c ./system/src/cortexm/_initialize_hardware.o
+ .debug_macro   0x0000fb9b      0x28a ./system/src/cortexm/exception_handlers.o
+ .debug_macro   0x0000fe25       0x10 ./system/src/cortexm/exception_handlers.o
+ .debug_macro   0x0000fe35      0x158 ./system/src/cmsis/system_stm32f30x.o
+ .debug_macro   0x0000ff8d       0x34 ./system/src/cmsis/vectors_stm32f30x.o
+ .debug_macro   0x0000ffc1      0x161 ./src/BlinkLed.o
+ .debug_macro   0x00010122       0x28 ./src/BlinkLed.o
+ .debug_macro   0x0001014a      0x175 ./src/Timer.o
+ .debug_macro   0x000102bf       0x10 ./src/Timer.o
+ .debug_macro   0x000102cf      0x2dc ./src/main.o
+ .debug_macro   0x000105ab       0x2e ./src/main.o
