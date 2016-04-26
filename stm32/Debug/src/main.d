@@ -28,7 +28,8 @@ src/main.o: ../src/main.c ../system/include/diag/Trace.h \
  ../system/include/stm32f3-stdperiph/stm32f30x_usart.h \
  ../system/include/stm32f3-stdperiph/stm32f30x_wwdg.h \
  ../system/include/stm32f3-stdperiph/stm32f30x_misc.h \
- ../include/BlinkLed.h
+ ../include/BlinkLed.h \
+ ../system/include/stm32f3-stdperiph/stm32f3xx_nucleo.h
 
 ../system/include/diag/Trace.h:
 
@@ -97,3 +98,5 @@ src/main.o: ../src/main.c ../system/include/diag/Trace.h \
 ../system/include/stm32f3-stdperiph/stm32f30x_misc.h:
 
 ../include/BlinkLed.h:
+
+../system/include/stm32f3-stdperiph/stm32f3xx_nucleo.h:

@@ -11,6 +11,7 @@
 
 #include "Timer.h"
 #include "BlinkLed.h"
+#include "stm32f3xx_nucleo.h"
 
 // ----------------------------------------------------------------------------
 //
@@ -67,17 +68,20 @@ main(int argc, char* argv[])
 
   timer_start();
 
-  blink_led_init();
+  //blink_led_init();
+  STM_EVAL_LEDInit(LED2_PIN);
   
   uint32_t seconds = 0;
 
   // Infinite loop
   while (1)
     {
-      blink_led_on();
+      //blink_led_on();
+	  STM_EVAL_LEDOn(LED2_PIN);
       timer_sleep(seconds == 0 ? TIMER_FREQUENCY_HZ : BLINK_ON_TICKS);
 
-      blink_led_off();
+      //blink_led_off();
+	  STM_EVAL_LEDOff(LED2_PIN);
       timer_sleep(BLINK_OFF_TICKS);
 
       ++seconds;
