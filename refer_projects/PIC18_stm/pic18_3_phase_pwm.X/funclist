@@ -1,0 +1,14 @@
+_InitTMR2: CODE, 1238 0 24
+_ConfigureOscillator: CODE, 1262 0 14
+_main: CODE, 1206 0 32
+_InitPWM1: CODE, 1104 0 52
+_InitPWM2: CODE, 1052 0 52
+_InitPWM3: CODE, 980 0 72
+_high_isr: CODE, 8 0 972
+__initialization: CODE, 1156 0 44
+_UpdatePWM1: CODE, 500 0 148
+_UpdatePWM2: CODE, 336 0 164
+_UpdatePWM3: CODE, 166 0 170
+_low_isr: CODE, 24 0 138
+_InitMotorPWM: CODE, 776 0 102
+Total: 1984
